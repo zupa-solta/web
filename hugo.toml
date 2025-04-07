@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://tkulic.github.io/zupa-solta/"
 languageCode = "hr"
 title = "Župe otoka Šolte"
 theme = "alpha-church"
@@ -45,7 +45,7 @@ enableEmoji = true
     #lge = "example96.png"
 
     [params.banner]
-    image = "/img/grohote_solta_sv_stjepan.jpg"
+    image = "./img/grohote_solta_sv_stjepan.jpg"
 
     [params.footer]
       copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
@@ -61,4 +61,10 @@ enableEmoji = true
   name = "Crkve"
   url = "/crkve/"
   weight = 2
+
+[[menu.main]]
+  name = "Vinkov Blog"
+  url = "/posts"
+  weight = 3
+
 
