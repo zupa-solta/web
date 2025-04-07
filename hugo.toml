@@ -1,5 +1,64 @@
-baseURL = "https://TVOJE_KORISNICKO_IME.github.io/zupa-solta/"
+baseURL = "http://localhost:1313/"
 languageCode = "hr"
 title = "Župe otoka Šolte"
-theme = "ananke"
+theme = "alpha-church"
 publishDir = "docs"
+
+rssLimit = 5
+pagination.pagerSize = 4
+
+enableEmoji = true
+
+# Enter your tracking code to enable Google Analytics
+[services]
+  [services.googleAnalytics]
+    ID = ""
+
+[security]
+  enableInlineShortcodes = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  preacher = "preachers"
+  series = "series"
+
+[params]
+  title = "Župe otoka Šolte"
+  subtitle = "Grohote  |  Gornje Selo  |  Donje Selo  |  Maslinica"
+  keywords = ["solta", "zupa", "crkva"]
+  languageCode = "hr" 
+  bible_popups = "faithlife" #faithlife, blb
+  bible_version = "CSB"
+  instant_page = true
+
+
+  [params.author]
+    name = "Web Author"
+    email = "test@example.com"
+
+  [params.favicon]
+    sml = "/example16.png"
+    med = "/example32.png"
+    #lge = "example96.png"
+
+    [params.banner]
+    image = "/img/grohote_solta_sv_stjepan.jpg"
+
+    [params.footer]
+      copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
+                   "[Splitsko-makarska nadbiskupija](https://smn.hr/grohote)"
+                  ] 
+
+[[menu.main]]
+  name = "Povijest"
+  url = "/povijest/"
+  weight = 1
+
+[[menu.main]]
+  name = "Crkve"
+  url = "/crkve/"
+  weight = 2
+
