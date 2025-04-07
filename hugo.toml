@@ -67,12 +67,3 @@ enableEmoji = true
   url = "/posts"
   weight = 3
 
-[build]
-  base = "."
-  publish = "public/"
-  command = "hugo --gc --minify --buildFuture"
-
-[context.production.environment]
-  HUGO_VERSION = "0.145.0"
-  HUGO_ENV = "production"
-  TZ = "Europe/Paris"

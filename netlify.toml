@@ -1,8 +1,6 @@
 [build]
-  # Use the Hugo build command
   command = "hugo"
-  # Specify the Hugo version if needed (optional)
-  environment = {HUGO_VERSION = "0.145.0"}
+  publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.145.0"  # Specify your Hugo version
+  HUGO_VERSION = "0.145.0"
