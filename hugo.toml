@@ -1,0 +1,5 @@
+baseURL = "https://TVOJE_KORISNICKO_IME.github.io/zupa-solta/"
+languageCode = "hr"
+title = "Župe otoka Šolte"
+theme = "ananke"
+publishDir = "docs"
