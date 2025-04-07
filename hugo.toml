@@ -2,7 +2,6 @@ baseURL = "https://tkulic.github.io/zupa-solta/"
 languageCode = "hr"
 title = "Župe otoka Šolte"
 theme = "alpha-church"
-publishDir = "docs"
 
 rssLimit = 5
 pagination.pagerSize = 4
