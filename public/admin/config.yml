@@ -3,8 +3,8 @@
 backend:
   name: git-gateway
   branch: master
+locale: "hr" # Language code for localization
 media_folder: "static/img"
-public_folder: "images"
 collections:
   - name: "posts" 
     label: "Objave" # Used in the UI
@@ -16,3 +16,4 @@ collections:
       - { label: "Slika", name: "image", widget: "image" }
       - { label: "Oznake", name: "tags", widget: "list", summary: "{{fields.tag}}", field: { label: "Tag", name: "tag", widget: "string" }} # https://github.com/decaporg/decap-cms/issues/4646 
       - { label: "Sadržaj", name: "body", widget: "markdown", hint: "Ne zaboravi dodati popratnu sliku!" }
+    sortable_fields: ['date', 'title', 'commit_author']
