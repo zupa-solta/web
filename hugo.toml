@@ -35,7 +35,7 @@ enableEmoji = true
 
 
   [params.author]
-    name = "Web Author"
+    name = "tkulic"
     email = "test@example.com"
 
   [params.favicon]
