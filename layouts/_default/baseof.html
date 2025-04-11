@@ -1,0 +1,25 @@
+{{ partial "header" . .Section "list" }}
+{{ partialCached "nav" . .Section }}
+
+{{ block "main" . }}
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+{{ end }}
+
+{{ partialCached "footer" . }}
+{{ if .IsPage }}
+{{ partialCached "scripts" . .Section "single" }}
+{{ else }}
+{{ partialCached "scripts" . .Section "list" }}
+{{ end }}

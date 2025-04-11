@@ -1,4 +1,4 @@
-baseURL = "https://tkulic.github.io/zupa-solta/"
+baseURL = "https://zupa-solta.netlify.app/"
 languageCode = "hr"
 title = "Župe otoka Šolte"
 theme = "alpha-church"
