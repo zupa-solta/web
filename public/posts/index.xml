@@ -12,6 +12,13 @@
     <atom:link href="https://zupa-solta.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prvi Post</title>
+      <link>https://zupa-solta.netlify.app/posts/drugi-post/</link>
+      <pubDate>Mon, 07 Apr 2025 18:00:00 +0200</pubDate><author>test@example.com (tkulic)</author>
+      <guid>https://zupa-solta.netlify.app/posts/drugi-post/</guid>
+      <description>&lt;p&gt;Ovo je &lt;strong&gt;testni sadržaj&lt;/strong&gt; za drugi blog post. 🎉&lt;/p&gt;&#xA;&lt;p&gt;Dodajemo još teksta i provjeravamo prikazivanje sadržaja.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prvi Post</title>
       <link>https://zupa-solta.netlify.app/posts/prvi-post/</link>
       <pubDate>Mon, 07 Apr 2025 18:00:00 +0200</pubDate><author>test@example.com (tkulic)</author>
       <guid>https://zupa-solta.netlify.app/posts/prvi-post/</guid>

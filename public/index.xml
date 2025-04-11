@@ -12,6 +12,13 @@
     <atom:link href="https://zupa-solta.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prvi Post</title>
+      <link>https://zupa-solta.netlify.app/posts/drugi-post/</link>
+      <pubDate>Mon, 07 Apr 2025 18:00:00 +0200</pubDate><author>test@example.com (tkulic)</author>
+      <guid>https://zupa-solta.netlify.app/posts/drugi-post/</guid>
+      <description>&lt;p&gt;Ovo je &lt;strong&gt;testni sadržaj&lt;/strong&gt; za drugi blog post. 🎉&lt;/p&gt;&#xA;&lt;p&gt;Dodajemo još teksta i provjeravamo prikazivanje sadržaja.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prvi Post</title>
       <link>https://zupa-solta.netlify.app/posts/prvi-post/</link>
       <pubDate>Mon, 07 Apr 2025 18:00:00 +0200</pubDate><author>test@example.com (tkulic)</author>
       <guid>https://zupa-solta.netlify.app/posts/prvi-post/</guid>
@@ -37,13 +44,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>test@example.com (tkulic)</author>
       <guid>https://zupa-solta.netlify.app/povijest/</guid>
       <description>&lt;p&gt;Župa Grohote je najstarija župa na otoku Šolti. Na njezinom području živjeli su stari Iliri, a najviše arheoloških ostataka pronađeno je iz vremena rimske vladavine. I kršćanstvo se na ovom području rano proširilo, o čemu govori starokršćanska bazilika iz 5. ili 6. stoljeća, čiji je pod bio ukrašen mozaikom, sličnom onomu iz salonitanskih bazilika. Na mozaiku je ispred prezbiterija pronađen natpis s imenom Honorija, po svoj prilici dobročinitelja crkve. U bazilici su pronađeni starokršćanski grobovi. Ova je bazilika po svoj prilici zapaljena u 13. stoljeću, što potvrđuje kamenje koje se na nekim mjestima počelo pretvarati u vapno. Prema Tomi Arciđakonu baziliku su zapalili omiški gusari 1241. godine. U 14. stoljeću započela je gradnja nove crkve Svetog Stjepana, koja je 1913. godine srušena da bi ustupila mjesto današnjoj, većoj crkvi.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Raspored svetih misa</title>
-      <link>https://zupa-solta.netlify.app/mise/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>test@example.com (tkulic)</author>
-      <guid>https://zupa-solta.netlify.app/mise/</guid>
-      <description>&lt;p&gt;Misa je nedjeljom u 10 sati.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
