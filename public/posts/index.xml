@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Župe otoka Šolte</title>
-    <link>https://tkulic.github.io/zupa-solta/posts/</link>
+    <link>https://zupa-solta.netlify.app/posts/</link>
     <description>Recent content in Posts on Župe otoka Šolte</description>
     <generator>Hugo</generator>
     <language>hr</language>
     <managingEditor>test@example.com (Web Author)</managingEditor>
     <webMaster>test@example.com (Web Author)</webMaster>
     <lastBuildDate>Mon, 07 Apr 2025 18:00:00 +0200</lastBuildDate>
-    <atom:link href="https://tkulic.github.io/zupa-solta/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zupa-solta.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prvi Post</title>
-      <link>https://tkulic.github.io/zupa-solta/posts/prvi-post/</link>
+      <link>https://zupa-solta.netlify.app/posts/prvi-post/</link>
       <pubDate>Mon, 07 Apr 2025 18:00:00 +0200</pubDate><author>test@example.com (Web Author)</author>
-      <guid>https://tkulic.github.io/zupa-solta/posts/prvi-post/</guid>
+      <guid>https://zupa-solta.netlify.app/posts/prvi-post/</guid>
       <description>&lt;p&gt;Ovo je &lt;strong&gt;testni sadržaj&lt;/strong&gt; za prvi blog post. 🎉&lt;/p&gt;&#xA;&lt;p&gt;Dodajemo još teksta i provjeravamo prikazivanje sadržaja.&lt;/p&gt;</description>
     </item>
   </channel>
