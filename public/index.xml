@@ -5,7 +5,7 @@
     <link>https://zupa-solta.netlify.app/</link>
     <description>Recent content on Župe otoka Šolte</description>
     <generator>Hugo</generator>
-    <language>hr</language>
+    <language>en</language>
     <managingEditor>test@example.com (tkulic)</managingEditor>
     <webMaster>test@example.com (tkulic)</webMaster>
     <lastBuildDate>Thu, 10 Apr 2025 16:20:00 +0000</lastBuildDate>
@@ -39,11 +39,11 @@
       <description>&lt;p&gt;Župna crkva Svetog Stjepana počela se graditi 1913. godine na mjestu stare, srušene crkve. Prvi svjetski rat usporio je njezinu gradnju. Svakako je već 1927. godine u njoj započela redovita služba Božja, iako crkva još nije bila posve završena. Godine 1938. postavljene je veliki oltar, rad kipara Ante Franka iz Splita. Crkva je impozantna i velebna građevina s tri lađe. Na pročelju je zvonik s istaknutim portalom i osmerokrakom kamenom rozetom, a ispod zvona je javni sat. Na katu za zvona nalaze se na sve četiri strane po dva otvora na luk. Zvonik završava vitkom piramidom s križem. Na zidovima lađa nalazi se po pet prozora na luk. Sa strana velike polukružne apside smještene su sakristije. U sjevernoj sakristiji uređena je zbirka crkvenih umjetnina. Crkva je više puta popravljana. Za župnikovanja don Špirka Vukovića (1975.-1982.) postavljeni su vitraji na prozore, a na velikom oltaru postavljen je mozaik s likovima hrvatskih svetaca i kandidata za oltar, rad don Ante Škobalja. I drugi mozaici u crkvi djelo su istog autora. U sjevernoj lađi nalazi se barokni oltar Gospe od Karmela iz stare crkve. Druga dva pokrajna oltara su novi radovi bez veće umjetničke vrijednosti. Ispred glavnog oltara postavljen je oltar prema puku. Crkva ima više predmeta umjetničke vrijednosti, koji su zaštićeni kao pokretni spomenici kulture. Među njima ističe se slika Gospinog uznesenja, rad flandrijskog slikara Petra de Costera iz 17. stoljeća, kao i pozlaćeni  moćnik iz 15. stoljeća. U crkvi se nalaze kipovi: sv. Ante, sv. Josip, sv. Stjepan, Gospa od Karmela, Gospa Fatimska, sv. Terezija i sv. Mihovil. Posljednja obnova crkve izvršena je za župnikovanja don Ivana Barišića (1982.-1990.).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Nazovi župnika</title>
-      <link>https://zupa-solta.netlify.app/kontakt/</link>
+      <title>Hvala na Vašoj poruci.</title>
+      <link>https://zupa-solta.netlify.app/kontakt-zahvala/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>test@example.com (tkulic)</author>
-      <guid>https://zupa-solta.netlify.app/kontakt/</guid>
-      <description>&lt;p&gt;Hehe, župnik nema mobitel 😊&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#x9;&lt;form name=&#34;contact&#34; method=&#34;POST&#34; action=&#34;https://zupa-solta.netlify.app/contact&#34; netlify&gt;&#xD;&#xA;&#x9;&#x9;&lt;div class=&#34;row gtr-50 gtr-uniform&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xD;&#xA;&#x9;    &#x9;&#x9;&lt;input type=&#34;text&#34; name=&#34;name&#34; aria-label=&#34;Your name&#34; placeholder=&#34;Your name&#34; required&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-6 col-12-mobilep&#34;&gt;&#xD;&#xA;&#x9;    &#x9;&#x9;&lt;input type=&#34;email&#34; name=&#34;email&#34; aria-label=&#34;Email address&#34; placeholder=&#34;Email address&#34; required&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-12&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;textarea name=&#34;message&#34; aria-label=&#34;Enter your message&#34; placeholder=&#34;Enter your message&#34; rows=&#34;6&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;col-12&#34;&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;ul class=&#34;actions special&#34;&gt;&#xD;&#xA;&#x9;  &#x9;&#x9;&#x9;&#x9;&lt;li&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;input type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;/li&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/ul&gt;&#xD;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&#x9;&lt;/div&gt;&#xD;&#xA;&#x9;&lt;/form&gt;</description>
+      <guid>https://zupa-solta.netlify.app/kontakt-zahvala/</guid>
+      <description>&lt;p&gt;Zahvaljujemo na Vašem interesu. &lt;strong&gt;Župnik&lt;/strong&gt; će stupiti u kontakt s vama u najkraćem mogućem roku.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://zupa-solta.netlify.app/&#34;&gt;← Povratak na početnu stranicu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

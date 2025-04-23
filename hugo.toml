@@ -10,6 +10,16 @@ enableEmoji = true
 
 enableRobotsTXT = true
 
+[languages]
+  [languages.hr]
+    languageName = "Hrvatski"
+    weight = 1
+
+  [languages.en]
+    languageName = "English"
+    weight = 2
+
+
 # Enter your tracking code to enable Google Analytics
 [services]
   [services.googleAnalytics]
@@ -51,7 +61,7 @@ enableRobotsTXT = true
   [params.contact]
     #For netlify, please read https://www.netlify.com/docs/form-handling/
     service = "netlify" 
-    confirm_page = "/contact" 
+    confirm_page = "/kontakt" 
 
   [params.footer]
     copyright = ["© Župe otoka Šolte",

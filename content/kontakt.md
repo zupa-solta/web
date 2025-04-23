@@ -1,7 +1,5 @@
 +++
-title = "Nazovi župnika"
+title = "Kontakt"
 +++
-
-Hehe, župnik nema mobitel 😊
 
 {{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}
