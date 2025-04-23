@@ -13,6 +13,6 @@ collections:
     create: true # Allow users to create new documents in this collection
     fields: # The fields for each document, usually in front matter
       - { label: "Naslov", name: "title", widget: "string" }
-      - { label: "Datum objave", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD.MM.YYYY", time_format: "HH:mm", picker_utc: true }
-      - { label: "Slika", name: "images", widget: "list", field: { label: "Slika", name: "image", widget: "image" } }
-      - { label: "Sadržaj", name: "body", widget: "markdown", hint: "Ne zaboravi dodati popratnu sliku!" }
+      - { label: "Datum objave", name: "date", widget: "datetime" }
+      - { label: "Slika", name: "images", widget: "string" }
+      - { label: "Sadržaj", name: "body", widget: "markdown" }

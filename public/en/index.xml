@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Župe otoka Šolte</title>
-    <link>http://localhost:1313/hr/</link>
+    <link>https://zupa-solta.netlify.app/en/</link>
     <description>Recent content on Župe otoka Šolte</description>
     <generator>Hugo</generator>
-    <language>hr</language>
+    <language>en</language>
     <managingEditor>test@example.com (tkulic)</managingEditor>
     <webMaster>test@example.com (tkulic)</webMaster>
-    <atom:link href="http://localhost:1313/hr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zupa-solta.netlify.app/en/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

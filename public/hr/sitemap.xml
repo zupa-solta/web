@@ -2,52 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zupa-solta.netlify.app/hr/preachers/</loc>
+    <loc>https://zupa-solta.netlify.app/</loc>
+    <lastmod>2025-04-10T16:20:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/preachers/"
+                href="https://zupa-solta.netlify.app/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/hr/preachers/"
-                />
-  </url><url>
-    <loc>https://zupa-solta.netlify.app/hr/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupa-solta.netlify.app/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hr"
-                href="https://zupa-solta.netlify.app/hr/series/"
-                />
-  </url><url>
-    <loc>https://zupa-solta.netlify.app/hr/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zupa-solta.netlify.app/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hr"
-                href="https://zupa-solta.netlify.app/hr/tags/"
-                />
-  </url><url>
-    <loc>https://zupa-solta.netlify.app/hr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://zupa-solta.netlify.app/"
                 />
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/posts/</loc>
+    <lastmod>2025-04-10T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/posts/veliki-petak/</loc>
+    <lastmod>2025-04-10T16:20:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/posts/drugi-post/</loc>
+    <lastmod>2025-04-07T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/posts/prvi-post/</loc>
+    <lastmod>2025-04-07T18:00:00+02:00</lastmod>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/crkve/</loc>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/kontakt-zahvala/</loc>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/kontakt/</loc>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/povijest/</loc>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/preachers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupa-solta.netlify.app/en/preachers/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/hr/"
+                href="https://zupa-solta.netlify.app/preachers/"
+                />
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/mise/</loc>
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupa-solta.netlify.app/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="https://zupa-solta.netlify.app/series/"
+                />
+  </url><url>
+    <loc>https://zupa-solta.netlify.app/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zupa-solta.netlify.app/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hr"
+                href="https://zupa-solta.netlify.app/tags/"
                 />
   </url>
 </urlset>

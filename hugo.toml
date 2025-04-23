@@ -10,6 +10,8 @@ enableEmoji = true
 
 enableRobotsTXT = true
 
+defaultContentLanguage = "hr"
+
 [languages]
   [languages.hr]
     languageName = "Hrvatski"
