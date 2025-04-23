@@ -8,8 +8,15 @@
     <language>hr</language>
     <managingEditor>test@example.com (tkulic)</managingEditor>
     <webMaster>test@example.com (tkulic)</webMaster>
-    <lastBuildDate>Thu, 10 Apr 2025 16:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zupa-solta.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uskrs</title>
+      <link>https://zupa-solta.netlify.app/posts/uskrs/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate><author>test@example.com (tkulic)</author>
+      <guid>https://zupa-solta.netlify.app/posts/uskrs/</guid>
+      <description>&lt;p&gt;Uskrs je nastao od glagola uskrsnuti koji vuče korijene iz staroslavenskog u kojemu je glagol *krьsnǫti značio rasti i razvijati se. Prefiksacijom uz- dobiven je praoblik od kojeg se razvio današnji hrvatski glagol.&lt;/p&gt;&#xA;&lt;p&gt;Drugi naziv, Pasha, češći je u drugim povijesnim konotacijama. Hebrejska riječ pasah značila je prolaz (prolaz Židova kroz pustinju nakon 40 godina), te je preuzeta u grč. Πάσχα. Uskrs se u romanskim jezicima naziva ovim oblikom (pr. tal. Pasqua).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Veliki Petak</title>
       <link>https://zupa-solta.netlify.app/posts/veliki-petak/</link>
