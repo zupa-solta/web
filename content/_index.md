@@ -1,13 +1,13 @@
 +++
 [banner]
   [[banner.button]]
-      url = "/contact"
-      text = "Nazovi župnika"
+      text = "Kontakt"
       type = "primary"
+      url = "/kontakt"
 
   [[banner.button]]
       url = "#feature-icons"
-      text = "O nama"
+      text = "Aktualno"
 
 #Details for the box below the banner
 [services]
@@ -21,54 +21,52 @@
 
   #Accent is a colour defined in the CSS file. Choose between 1 and 5
   [[feature_icons.tile]]
-    icon = "fa-hands-helping"
+    icon = "fa-rss"
     icon_pack = "fas"
     accent = "1"
-    title = "Služenje"
-    text = "Growing people who serve our community."
-    url = "/kids"
+    title = "Novosti"
+    text = "Iliti novitade"
+    url = "/posts"
 
   [[feature_icons.tile]]
     icon = "fa-church"
     icon_pack = "fas"
     accent = "2"
-    title = "Susret"
-    text = "Meeting together to hear."
+    title = "Crkve"
+    text = "Od Stipana od Nikole"
+    url = "/crkve"
 
   [[feature_icons.tile]]
-    icon = "fa-comments"
+    icon = "fa-child"
     icon_pack = "fas"
     accent = "5"
-    title = "Dijalog"
-    text = "Speaking encouragement to one-another."
+    title = "Vjeronauk"
+    text = "Na dici svit ostaje"
 
   [[feature_icons.tile]]
-    icon = "fa-heartbeat"
+    icon = "fa-cross"
     icon_pack = "fas"
     accent = "3"
-    title = "Ljubav"
-    text = "Knowing Love. Being Loved."
+    title = "Povijest"
+    text = "Historia est magistra vitae."
+    url = "/povijest"
 
 [feature_images]
 #These feature images look best if there's an even number of them.
   enable = true
 
   [[feature_images.tile]]
-    image = "img/freely-10057.jpg"
-    title = "Childrens' Ministry"
-    text = "A church for the family."
-    url = "/kids"
-    button_text = "Learn more"
+    title = "Općina Šolta"
+    url = "https://visitsolta.com/"
+    button_text = "Više o otoku"
 
   [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
-    title = "Midweek Ministries"
-    text = "Want more during the week?"
-    url = "#"
-    button_text="Join a group today!"
+    title = "Splitsko-makarska nadbiskupija"
+    url = "https://smn.hr/"
+    button_text = "Više o nadbiskupiji"
 
 [CTA]
   enable = true
-  heading = "Get in touch!"
-  message = "We'd love to hear from you."
+  heading = "Pošalji poruku!"
+  message = "Ko skita, ne pita."
 +++

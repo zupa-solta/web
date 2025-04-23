@@ -8,6 +8,8 @@ pagination.pagerSize = 4
 
 enableEmoji = true
 
+enableRobotsTXT = true
+
 # Enter your tracking code to enable Google Analytics
 [services]
   [services.googleAnalytics]
@@ -26,7 +28,7 @@ enableEmoji = true
 
 [params]
   title = "Župe otoka Šolte"
-  subtitle = "Grohote  |  Gornje Selo  |  Donje Selo  |  Maslinica"
+  subtitle = "Grohote | Gornje Selo | Srednje Selo | Donje Selo | Maslinica"
   keywords = ["solta", "zupa", "crkva"]
   languageCode = "hr" 
   bible_popups = "faithlife" #faithlife, blb
@@ -39,16 +41,23 @@ enableEmoji = true
     email = "test@example.com"
 
   [params.favicon]
-    sml = "/example16.png"
-    med = "/example32.png"
+    sml = "./img/favicon/favicon-16x16.png"
+    med = "./img/favicon/favicon-32x32.png"
     #lge = "example96.png"
 
-    [params.banner]
+  [params.banner]
     image = "./img/grohote_solta_sv_stjepan.jpg"
 
-    [params.footer]
-      copyright = ["[CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)",
-                   "[Splitsko-makarska nadbiskupija](https://smn.hr/grohote)"
+  [params.contact]
+    #For netlify, please read https://www.netlify.com/docs/form-handling/
+    service = "netlify" 
+    confirm_page = "/contact" 
+
+  [params.footer]
+    copyright = ["© Župe otoka Šolte",
+                   "Built by [tkulic](https://github.com/tkulic)",
+                   "Built with [hugo](https://gohugo.io/)",
+                   "Theme: [Alpha Church](https://github.com/funkydan2/alpha-church)"
                   ] 
 
 [[menu.main]]
@@ -62,7 +71,7 @@ enableEmoji = true
   weight = 2
 
 [[menu.main]]
-  name = "Vinkov Blog"
+  name = "Aktualno"
   url = "/posts"
   weight = 3
 

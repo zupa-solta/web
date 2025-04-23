@@ -4,8 +4,8 @@ backend:
   name: git-gateway
   branch: master
 locale: "hr" # Language code for localization
-media_folder: "assets/img"
-public_folder: /img
+media_folder: "static/img" # Path where uploaded media files are stored (relative to the repo root)
+public_folder: "/img" # Public URL path for the media files
 collections:
   - name: "posts" 
     label: "Objave" # Used in the UI
@@ -14,6 +14,5 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Naslov", name: "title", widget: "string" }
       - { label: "Datum objave", name: "date", widget: "datetime", default: "{{now}}", date_format: "DD.MM.YYYY", time_format: "HH:mm", picker_utc: true }
-      - { label: "Slika", name: "featured", widget: "image" } 
+      - { label: "Slika", name: "images", widget: "list", field: { label: "Slika", name: "image", widget: "image" } }
       - { label: "Sadržaj", name: "body", widget: "markdown", hint: "Ne zaboravi dodati popratnu sliku!" }
-    sortable_fields: ['date', 'title', 'commit_author']
