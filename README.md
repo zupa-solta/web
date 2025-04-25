@@ -2,3 +2,6 @@
 
 Start development server
 hugo server
+
+Build site
+hugo

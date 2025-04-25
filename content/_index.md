@@ -11,8 +11,8 @@
 
 #Details for the box below the banner
 [services]
-  title = "Nedjeljna misa"
-  text = "Nakon jutarnje kave dođite u [župnu crkvu](https://www.openstreetmap.org/way/523295687)."
+  title = "Svete mise"
+  text = "Raspored bogoslužja po župama pregledajte [ovdje](/mise)."
   map_location = "Crkva svetog Stjepana"
 
 [feature_icons]
@@ -67,6 +67,6 @@
 
 [CTA]
   enable = true
-  heading = "Pošalji poruku!"
+  heading = "Pošaljite poruku!"
   message = "Ko skita, ne pita."
 +++

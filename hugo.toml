@@ -73,17 +73,22 @@ defaultContentLanguage = "hr"
                   ] 
 
 [[menu.main]]
+  name = "Početna"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
   name = "Povijest"
   url = "/povijest/"
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   name = "Crkve"
   url = "/crkve/"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Aktualno"
   url = "/posts"
-  weight = 3
+  weight = 4
 
