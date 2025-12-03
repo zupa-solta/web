@@ -63,7 +63,7 @@ defaultContentLanguage = "hr"
   [params.contact]
     #For netlify, please read https://www.netlify.com/docs/form-handling/
     service = "netlify" 
-    confirm_page = "/kontakt" 
+    confirm_page = "/kontakt-zahvala" 
 
   [params.footer]
     copyright = ["© Župe otoka Šolte",
@@ -88,7 +88,7 @@ defaultContentLanguage = "hr"
   weight = 3
 
 [[menu.main]]
-  name = "Aktualno"
+  name = "Tjedni raspored"
   url = "/posts"
   weight = 4
 

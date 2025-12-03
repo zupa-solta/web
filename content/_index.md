@@ -6,8 +6,8 @@
       url = "/kontakt"
 
   [[banner.button]]
-      url = "#feature-icons"
-      text = "Aktualno"
+      url = "posts/tjedni-raspored"
+      text = "Tjedni raspored"
 
 #Details for the box below the banner
 [services]
@@ -42,6 +42,7 @@
     accent = "5"
     title = "Vjeronauk"
     text = "Na dici svit ostaje"
+    url = "/vjeronauk"
 
   [[feature_icons.tile]]
     icon = "fa-cross"

@@ -8,8 +8,15 @@
     <language>hr</language>
     <managingEditor>test@example.com (tkulic)</managingEditor>
     <webMaster>test@example.com (tkulic)</webMaster>
-    <lastBuildDate>Wed, 23 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zupa-solta.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tjedni raspored</title>
+      <link>https://zupa-solta.netlify.app/posts/tjedni-raspored/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate><author>test@example.com (tkulic)</author>
+      <guid>https://zupa-solta.netlify.app/posts/tjedni-raspored/</guid>
+      <description>&lt;h1 id=&#34;prva-nedjelja-došašća--a&#34;&gt;Prva nedjelja došašća – A&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;23.11. – 29.11.2025.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-nedjelja-došašća-adventa&#34;&gt;1. NEDJELJA DOŠAŠĆA (ADVENTA)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;(Sv. Andrija ap. 30.11.) — Početak liturgijske godine A&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;srednje-selo&#34;&gt;Srednje Selo&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;08:30&lt;/strong&gt; † Ivanica KLARIĆ&lt;/p&gt;&#xA;&lt;h3 id=&#34;grohote&#34;&gt;Grohote&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;10:00&lt;/strong&gt; Pro populo&lt;/p&gt;&#xA;&lt;h3 id=&#34;donje-selo&#34;&gt;Donje Selo&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;11:30&lt;/strong&gt; † iz ob. BEZIĆ&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;ponedjeljak&#34;&gt;Ponedjeljak&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;06:00&lt;/strong&gt; Dobročinitelji; duše u čistilištu (započinju zornice)&lt;/p&gt;&#xA;&lt;h3 id=&#34;utorak&#34;&gt;Utorak&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;06:00&lt;/strong&gt; † Marko ZEČIĆ&lt;/p&gt;&#xA;&lt;h3 id=&#34;srijeda&#34;&gt;Srijeda&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Nema sv. Mise&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;četvrtak&#34;&gt;Četvrtak&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;18:30&lt;/strong&gt; † Marijo BOKO (Sv. Ivan Damaščanski pr. i n.)&lt;/p&gt;&#xA;&lt;h3 id=&#34;petak&#34;&gt;Petak&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;06:00&lt;/strong&gt; Na nakanu (za bolesnike i obraćenje grješnika)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Uskrs</title>
       <link>https://zupa-solta.netlify.app/posts/uskrs/</link>
@@ -37,13 +44,6 @@
       <pubDate>Mon, 07 Apr 2025 18:00:00 +0200</pubDate><author>test@example.com (tkulic)</author>
       <guid>https://zupa-solta.netlify.app/posts/prvi-post/</guid>
       <description>&lt;p&gt;Ovo je &lt;strong&gt;testni sadržaj&lt;/strong&gt; za prvi blog post. 🎉&lt;/p&gt;&#xA;&lt;p&gt;Dodajemo još teksta i provjeravamo prikazivanje sadržaja.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Crkve</title>
-      <link>https://zupa-solta.netlify.app/crkve/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>test@example.com (tkulic)</author>
-      <guid>https://zupa-solta.netlify.app/crkve/</guid>
-      <description>&lt;p&gt;Župna crkva Svetog Stjepana počela se graditi 1913. godine na mjestu stare, srušene crkve. Prvi svjetski rat usporio je njezinu gradnju. Svakako je već 1927. godine u njoj započela redovita služba Božja, iako crkva još nije bila posve završena. Godine 1938. postavljene je veliki oltar, rad kipara Ante Franka iz Splita. Crkva je impozantna i velebna građevina s tri lađe. Na pročelju je zvonik s istaknutim portalom i osmerokrakom kamenom rozetom, a ispod zvona je javni sat. Na katu za zvona nalaze se na sve četiri strane po dva otvora na luk. Zvonik završava vitkom piramidom s križem. Na zidovima lađa nalazi se po pet prozora na luk. Sa strana velike polukružne apside smještene su sakristije. U sjevernoj sakristiji uređena je zbirka crkvenih umjetnina. Crkva je više puta popravljana. Za župnikovanja don Špirka Vukovića (1975.-1982.) postavljeni su vitraji na prozore, a na velikom oltaru postavljen je mozaik s likovima hrvatskih svetaca i kandidata za oltar, rad don Ante Škobalja. I drugi mozaici u crkvi djelo su istog autora. U sjevernoj lađi nalazi se barokni oltar Gospe od Karmela iz stare crkve. Druga dva pokrajna oltara su novi radovi bez veće umjetničke vrijednosti. Ispred glavnog oltara postavljen je oltar prema puku. Crkva ima više predmeta umjetničke vrijednosti, koji su zaštićeni kao pokretni spomenici kulture. Među njima ističe se slika Gospinog uznesenja, rad flandrijskog slikara Petra de Costera iz 17. stoljeća, kao i pozlaćeni  moćnik iz 15. stoljeća. U crkvi se nalaze kipovi: sv. Ante, sv. Josip, sv. Stjepan, Gospa od Karmela, Gospa Fatimska, sv. Terezija i sv. Mihovil. Posljednja obnova crkve izvršena je za župnikovanja don Ivana Barišića (1982.-1990.).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
