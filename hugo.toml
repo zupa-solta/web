@@ -89,6 +89,11 @@ defaultContentLanguage = "hr"
 
 [[menu.main]]
   name = "Tjedni raspored"
-  url = "/posts"
+  url = "/weekly"
   weight = 4
+
+[[menu.main]]
+  name = "Aktualno"
+  url = "/posts"
+  weight = 5
 

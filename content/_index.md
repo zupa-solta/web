@@ -6,7 +6,7 @@
       url = "/kontakt"
 
   [[banner.button]]
-      url = "posts/tjedni-raspored"
+      url = "weekly/tjedni-raspored"
       text = "Tjedni raspored"
 
 #Details for the box below the banner

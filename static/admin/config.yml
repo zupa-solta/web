@@ -33,4 +33,31 @@ collections:
       - label: "Sadržaj"
         name: "body"
         widget: "markdown"
-        hint: "Molim nešto kreativno"
+        hint: "Napiši dvi-tri pametne."
+
+  - name: "weekly"
+    label: "Tjedni raspored" # Used in the UI
+    folder: "content/weekly" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - label: "Naslov"
+        name: "title"
+        widget: "string"
+
+      - label: "Datum objave"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD" 
+
+      - label: "Slike"
+        name: "images"
+        widget: "list"
+        field:
+          label: "Slika"
+          name: "image"
+          widget: "image"
+
+      - label: "Sadržaj"
+        name: "body"
+        widget: "markdown"
+        hint: "Dodaj raspored za tjedan."
