@@ -49,7 +49,7 @@
     icon_pack = "fas"
     accent = "3"
     title = "Povijest"
-    text = "Historia est magistra vitae."
+    text = "Historia est magistra vitae"
     url = "/povijest"
 
 [feature_images]

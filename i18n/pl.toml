@@ -1,0 +1,23 @@
+[nameLabel]
+other = "Twoje imię"
+
+[emailLabel]
+other = "Adres e-mail"
+
+[messageLabel]
+other = "Wpisz swoją wiadomość"
+
+[sendLabel]
+other = "Wyślij"
+
+[published]
+other = "Opublikowano:"
+
+[updated]
+other = "Zaktualizowano:"
+
+[postsHeading]
+other = "Wiadomości"
+
+[readMore]
+other = "Czytaj więcej"

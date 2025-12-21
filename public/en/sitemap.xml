@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zupa-solta.netlify.app/en/preachers/</loc>
+    <loc>https://zupa-ssp.hr/en/preachers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/preachers/"
+                href="https://zupa-ssp.hr/preachers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/en/preachers/"
+                href="https://zupa-ssp.hr/en/preachers/"
                 />
   </url><url>
-    <loc>https://zupa-solta.netlify.app/en/series/</loc>
+    <loc>https://zupa-ssp.hr/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/series/"
+                href="https://zupa-ssp.hr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/en/series/"
+                href="https://zupa-ssp.hr/en/series/"
                 />
   </url><url>
-    <loc>https://zupa-solta.netlify.app/en/tags/</loc>
+    <loc>https://zupa-ssp.hr/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/tags/"
+                href="https://zupa-ssp.hr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/en/tags/"
+                href="https://zupa-ssp.hr/en/tags/"
                 />
   </url><url>
-    <loc>https://zupa-solta.netlify.app/en/</loc>
+    <loc>https://zupa-ssp.hr/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/"
+                href="https://zupa-ssp.hr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/en/"
+                href="https://zupa-ssp.hr/en/"
                 />
   </url>
 </urlset>

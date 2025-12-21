@@ -2,86 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zupa-solta.netlify.app/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>https://zupa-ssp.hr/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/en/"
+                href="https://zupa-ssp.hr/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/"
+                href="https://zupa-ssp.hr/"
                 />
   </url><url>
-    <loc>https://zupa-solta.netlify.app/weekly/tjedni-raspored/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>https://zupa-ssp.hr/weekly/prva-nedjelja-do%C5%A1a%C5%A1%C4%87a/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/weekly/</loc>
-    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+    <loc>https://zupa-ssp.hr/weekly/</loc>
+    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/posts/</loc>
+    <loc>https://zupa-ssp.hr/posts/</loc>
     <lastmod>2025-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/posts/uskrs/</loc>
+    <loc>https://zupa-ssp.hr/posts/uskrs/</loc>
     <lastmod>2025-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/posts/veliki-petak/</loc>
+    <loc>https://zupa-ssp.hr/posts/veliki-petak/</loc>
     <lastmod>2025-04-10T16:20:00+00:00</lastmod>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/posts/drugi-post/</loc>
+    <loc>https://zupa-ssp.hr/posts/drugi-post/</loc>
     <lastmod>2025-04-07T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/posts/prvi-post/</loc>
+    <loc>https://zupa-ssp.hr/posts/prvi-post/</loc>
     <lastmod>2025-04-07T18:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/crkve/</loc>
+    <loc>https://zupa-ssp.hr/crkve/</loc>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/kontakt-zahvala/</loc>
+    <loc>https://zupa-ssp.hr/kontakt-zahvala/</loc>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/kontakt/</loc>
+    <loc>https://zupa-ssp.hr/kontakt/</loc>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/vjeronauk/</loc>
+    <loc>https://zupa-ssp.hr/vjeronauk/</loc>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/povijest/</loc>
+    <loc>https://zupa-ssp.hr/povijest/</loc>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/preachers/</loc>
+    <loc>https://zupa-ssp.hr/preachers/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/en/preachers/"
+                href="https://zupa-ssp.hr/en/preachers/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/preachers/"
+                href="https://zupa-ssp.hr/preachers/"
                 />
   </url><url>
-    <loc>https://zupa-solta.netlify.app/mise/</loc>
+    <loc>https://zupa-ssp.hr/mise/</loc>
   </url><url>
-    <loc>https://zupa-solta.netlify.app/series/</loc>
+    <loc>https://zupa-ssp.hr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/en/series/"
+                href="https://zupa-ssp.hr/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/series/"
+                href="https://zupa-ssp.hr/series/"
                 />
   </url><url>
-    <loc>https://zupa-solta.netlify.app/tags/</loc>
+    <loc>https://zupa-ssp.hr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zupa-solta.netlify.app/en/tags/"
+                href="https://zupa-ssp.hr/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hr"
-                href="https://zupa-solta.netlify.app/tags/"
+                href="https://zupa-ssp.hr/tags/"
                 />
   </url>
 </urlset>

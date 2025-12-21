@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weeklies on Župe otoka Šolte</title>
-    <link>https://zupa-solta.netlify.app/weekly/</link>
+    <link>https://zupa-ssp.hr/weekly/</link>
     <description>Recent content in Weeklies on Župe otoka Šolte</description>
     <generator>Hugo</generator>
     <language>hr</language>
     <managingEditor>test@example.com (tkulic)</managingEditor>
     <webMaster>test@example.com (tkulic)</webMaster>
-    <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zupa-solta.netlify.app/weekly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zupa-ssp.hr/weekly/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tjedni raspored</title>
-      <link>https://zupa-solta.netlify.app/weekly/tjedni-raspored/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate><author>test@example.com (tkulic)</author>
-      <guid>https://zupa-solta.netlify.app/weekly/tjedni-raspored/</guid>
-      <description>&lt;h2 id=&#34;prva-nedjelja-došašća--a&#34;&gt;Prva nedjelja došašća – A&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;23.11. – 29.11.2025.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-nedjelja-došašća-adventa&#34;&gt;1. NEDJELJA DOŠAŠĆA (ADVENTA)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;(Sv. Andrija ap. 30.11.) — Početak liturgijske godine A&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;srednje-selo&#34;&gt;Srednje Selo&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;08:30&lt;/strong&gt; † Ivanica KLARIĆ&lt;/p&gt;&#xA;&lt;h4 id=&#34;grohote&#34;&gt;Grohote&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;10:00&lt;/strong&gt; Pro populo&lt;/p&gt;&#xA;&lt;h4 id=&#34;donje-selo&#34;&gt;Donje Selo&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;11:30&lt;/strong&gt; † iz ob. BEZIĆ&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h4 id=&#34;ponedjeljak&#34;&gt;Ponedjeljak&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;06:00&lt;/strong&gt; Dobročinitelji; duše u čistilištu (započinju zornice)&lt;/p&gt;&#xA;&lt;h4 id=&#34;utorak&#34;&gt;Utorak&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;06:00&lt;/strong&gt; † Marko ZEČIĆ&lt;/p&gt;&#xA;&lt;h4 id=&#34;srijeda&#34;&gt;Srijeda&lt;/h4&gt;&#xA;&lt;p&gt;&lt;em&gt;Nema sv. Mise&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;četvrtak&#34;&gt;Četvrtak&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;18:30&lt;/strong&gt; † Marijo BOKO (Sv. Ivan Damaščanski pr. i n.)&lt;/p&gt;&#xA;&lt;h4 id=&#34;petak&#34;&gt;Petak&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;06:00&lt;/strong&gt; Na nakanu (za bolesnike i obraćenje grješnika)&lt;/p&gt;</description>
+      <title>Prva nedjelja došašća</title>
+      <link>https://zupa-ssp.hr/weekly/prva-nedjelja-do%C5%A1a%C5%A1%C4%87a/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate><author>test@example.com (tkulic)</author>
+      <guid>https://zupa-ssp.hr/weekly/prva-nedjelja-do%C5%A1a%C5%A1%C4%87a/</guid>
+      <description>&lt;h1 id=&#34;tjedni-raspored&#34;&gt;Tjedni raspored&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;23.11. – 29.11.2025.&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;Prva nedjelja došašća – liturgijska godina A (Sv. Andrija ap. – 30.11.)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-nedjelja-došašća&#34;&gt;1. nedjelja došašća&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Srednje Selo 08:30&lt;/strong&gt; – † Ivanica KLARIĆ&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grohote 10:00&lt;/strong&gt; – Pro populo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Donje Selo 11:30&lt;/strong&gt; – † iz ob. BEZIĆ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;tjedne-sv-mise&#34;&gt;Tjedne sv. Mise&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ponedjeljak 06:00 (zornica)&lt;/strong&gt; – Dobročinitelji; duše u čistilištu&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Utorak 06:00 (zornica)&lt;/strong&gt; – † Marko ZEČIĆ&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Srijeda&lt;/strong&gt; – Nema sv. Mise&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Četvrtak 18:30&lt;/strong&gt; – † Marijo BOKO (Sv. Ivan Damaščanski)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Petak 06:00 (zornica)&lt;/strong&gt; – Na nakanu (bolesnici i obraćenje grješnika)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Subota 09:00 (Rogač – suzaštitnik župe)&lt;/strong&gt; – Pro populo&lt;br&gt;&#xA;&lt;em&gt;(procesija, sv. Misa, blagoslov u Presvetim O.S.)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-nedjelja-došašća-0712&#34;&gt;2. nedjelja došašća (07.12.)&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Srednje Selo 08:30&lt;/strong&gt; – † Tomislav VISIĆ p. Ante&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Grohote 10:00&lt;/strong&gt; – Pro populo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Donje Selo 11:30&lt;/strong&gt; – † Marija i Drago JURIČIĆ&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;napomene&#34;&gt;Napomene&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zornice: ponedjeljak, utorak, petak&lt;/li&gt;&#xA;&lt;li&gt;Četvrtkom: ispovijed sat vremena prije mise; nakon mise klanjanje&lt;/li&gt;&#xA;&lt;li&gt;Ispovijed: 20–24 h&lt;/li&gt;&#xA;&lt;li&gt;Vjeronauk prvopričesnika: petak u 13 h&lt;/li&gt;&#xA;&lt;li&gt;Ministranti i krizmanici: subota u 09:00 h u Rogaču&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;komentar-čitanja&#34;&gt;Komentar čitanja&lt;/h2&gt;&#xA;&lt;p&gt;Gospodin sabire sve narode u vječni mir kraljevstva Božjega.&lt;br&gt;&#xA;Budimo budne i spremne!&lt;br&gt;&#xA;&lt;strong&gt;Bdijte da budete pripravni!&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
