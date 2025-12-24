@@ -1,13 +1,14 @@
 +++
 [banner]
   [[banner.button]]
-      text = "Kontakt"
-      type = "primary"
-      url = "/kontakt"
-
-  [[banner.button]]
       url = "weekly"
       text = "Tjedni raspored"
+      type = "primary"
+
+  [[banner.button]]
+      text = "Kontakt"
+      url = "/kontakt"
+
 
 #Details for the box below the banner
 [services]

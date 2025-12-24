@@ -40,10 +40,10 @@ Kapela Gospe Lurdske sagrađena je od klesanog kamena 1910. godine. Na vratima j
 
 ---
 
-## Kapela Gospe Ostrovske (Nečujam)
-![Kapela Gospe Ostrovske](https://smn.hr/images/galerije/zupe/grohote/grohote_solta_necujam_gospa_ostrovska.jpg)
+## Kapela Gospe Ostrobramske (Nečujam)
+![Kapela Gospe Ostrobramske](https://smn.hr/images/galerije/zupe/grohote/grohote_solta_necujam_gospa_ostrovska.jpg)
 
-Kapela Gospe Ostrovske u Nečujmu sagrađena je od lijepo klesanog kamena 1938. godine, a podigla je obitelj Bartelmus iz Poljske. Oltar je od hrastovog drveta. Gospina slika okovana je pozlaćenim mjedom. Natpis na poljskom jeziku glasi: «Pod tvoju obranu utječemo se – Ema i Jozef Bartelmus.» Dimenzije su 9 x 4 metra. Pokrivena je ravnom kupom. Na vrhu pročelja je preslica za jedno zvono.
+Kapela Gospe Ostrobramske u Nečujmu sagrađena je od lijepo klesanog kamena 1938. godine, a podigla je obitelj Bartelmus iz Poljske. Oltar je od hrastovog drveta. Gospina slika okovana je pozlaćenim mjedom. Natpis na poljskom jeziku glasi: «Pod tvoju obranu utječemo se – Ema i Jozef Bartelmus.» Dimenzije su 9 x 4 metra. Pokrivena je ravnom kupom. Na vrhu pročelja je preslica za jedno zvono.
 
 Vrijedno je spomenuti da se u Nečujmu i danas vide ostaci apside stare crkve Svetog Petra. Ta je crkva bila sagrađena u 14. stoljeću. Ostaci su zaštićeni kao spomenik kulture 1963. godine. Uz crkvu se nalaze ostaci zgrade u kojoj je boravio, razmatrao i pisao Marko Marulić.
 
