@@ -1,58 +1,84 @@
 ---
 title: Prva nedjelja došašća
 date: 2025-12-05
+week_range: "23.11.2025. – 29.11.2025."
+rows:
+  - day: Nedjelja
+    date: "01.12."
+    time: "08:30"
+    location: Srednje Selo
+    note: "1. nedjelja došašća"
+    intention: "† Ivanica KLARIĆ"
+  - day: Nedjelja
+    date: "01.12."
+    time: "10:00"
+    location: Grohote
+    note: "1. nedjelja došašća"
+    intention: Pro populo
+  - day: Nedjelja
+    date: "01.12."
+    time: "11:30"
+    location: Donje Selo
+    note: "1. nedjelja došašća"
+    intention: "† iz ob. BEZIĆ"
+  - day: Ponedjeljak
+    date: "02.12."
+    time: "06:00"
+    location: Grohote
+    note: zornica
+    intention: "Dobročinitelji; duše u čistilištu"
+  - day: Utorak
+    date: "03.12."
+    time: "06:00"
+    location: Grohote
+    note: zornica
+    intention: "† Marko ZEČIĆ"
+  - day: Srijeda
+    date: "04.12."
+  - day: Četvrtak
+    date: "05.12."
+    time: "18:30"
+    location: Grohote
+    note: Sv. Ivan Damaščanski
+    intention: "† Marijo BOKO"
+  - day: Petak
+    date: "06.12."
+    time: "06:00"
+    location: Grohote
+    note: zornica
+    intention: "Na nakanu (bolesnici i obraćenje grješnika)"
+  - day: Subota
+    date: "07.12."
+    time: "09:00"
+    location: Rogač
+    note: "suzaštitnik župe; procesija, sv. Misa, blagoslov u Presvetim O.S."
+    intention: Pro populo
+  - day: Nedjelja
+    date: "08.12."
+    time: "08:30"
+    location: Srednje Selo
+    note: "2. nedjelja došašća"
+    intention: "† Tomislav VISIĆ p. Ante"
+  - day: Nedjelja
+    date: "08.12."
+    time: "10:00"
+    location: Grohote
+    note: "2. nedjelja došašća"
+    intention: Pro populo
+  - day: Nedjelja
+    date: "08.12."
+    time: "11:30"
+    location: Donje Selo
+    note: "2. nedjelja došašća"
+    intention: "† Marija i Drago JURIČIĆ"
+notes:
+  - "Zornice: ponedjeljak, utorak, petak"
+  - "Četvrtkom: ispovijed sat vremena prije mise; nakon mise klanjanje"
+  - "Ispovijed: 20–24 h"
+  - "Vjeronauk prvopričesnika: petak u 13 h"
+  - "Ministranti i krizmanici: subota u 09:00 h u Rogaču"
+commentary: |
+  Gospodin sabire sve narode u vječni mir kraljevstva Božjega.
+  Budimo budne i spremne!
+  **Bdijte da budete pripravni!**
 ---
-
-# Tjedni raspored  
-**23.11. – 29.11.2025.**  
-*Prva nedjelja došašća – liturgijska godina A (Sv. Andrija ap. – 30.11.)*
-
----
-
-## 1. nedjelja došašća
-- **Srednje Selo 08:30** – † Ivanica KLARIĆ  
-- **Grohote 10:00** – Pro populo  
-- **Donje Selo 11:30** – † iz ob. BEZIĆ    
-
----
-
-## Tjedne sv. Mise
-
-- **Ponedjeljak 06:00 (zornica)** – Dobročinitelji; duše u čistilištu  
-- **Utorak 06:00 (zornica)** – † Marko ZEČIĆ  
-- **Srijeda** – Nema sv. Mise  
-- **Četvrtak 18:30** – † Marijo BOKO (Sv. Ivan Damaščanski)  
-- **Petak 06:00 (zornica)** – Na nakanu (bolesnici i obraćenje grješnika)  
-- **Subota 09:00 (Rogač – suzaštitnik župe)** – Pro populo  
-  *(procesija, sv. Misa, blagoslov u Presvetim O.S.)*
-
----
-
-## 2. nedjelja došašća (07.12.)
-- **Srednje Selo 08:30** – † Tomislav VISIĆ p. Ante  
-- **Grohote 10:00** – Pro populo  
-- **Donje Selo 11:30** – † Marija i Drago JURIČIĆ
-
----
-
-## Napomene
-
-- Zornice: ponedjeljak, utorak, petak  
-- Četvrtkom: ispovijed sat vremena prije mise; nakon mise klanjanje  
-- Ispovijed: 20–24 h  
-- Vjeronauk prvopričesnika: petak u 13 h  
-- Ministranti i krizmanici: subota u 09:00 h u Rogaču  
-
----
-
-## Komentar čitanja
-
-Gospodin sabire sve narode u vječni mir kraljevstva Božjega.  
-Budimo budne i spremne!  
-**Bdijte da budete pripravni!**
-
----
-
-don Vinko Beus  
-📞 +385 98 9 126 621  
-📧 vinko.besa@gmail.com

@@ -20,8 +20,8 @@
         <div class="col-6 col-12-mobilep">
           <span class="image fit">
             <a href="{{ .Permalink }}">
-              <img src="{{ index .Params.images 0 | absURL }}"></img>
-            </a/>
+              {{ partial "img-cdn" (dict "src" (index .Params.images 0) "width" 600) }}
+            </a>
           </span>
         </div>
     </div>

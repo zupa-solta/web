@@ -1,0 +1,8 @@
+{{- $src := .src -}}
+{{- $width := .width | default 800 -}}
+{{- $class := .class | default "" -}}
+{{- $alt := .alt | default "" -}}
+{{- if ne hugo.Environment "development" -}}
+  {{- $src = printf "/.netlify/images?url=%s&w=%d" $src $width -}}
+{{- end -}}
+<img src="{{ $src }}"{{ with $class }} class="{{ . }}"{{ end }} alt="{{ $alt }}" loading="lazy">

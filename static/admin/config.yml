@@ -36,29 +36,104 @@ collections:
         hint: "Napiši dvi-tri pametne."
 
   - name: "weekly"
-    label: "Tjedni raspored" # Used in the UI
-    folder: "content/weekly" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    summary: "{{title}} - {{date}}"
-    fields: # The fields for each document, usually in front matter
+    label: "Tjedni raspored"
+    folder: "content/weekly"
+    create: true
+    summary: "{{title}}"
+    fields:
       - label: "Naslov"
         name: "title"
         widget: "string"
+        hint: "npr. Prva nedjelja došašća"
 
-      - label: "Datum objave"
+      - label: "Datum"
         name: "date"
         widget: "datetime"
-        format: "YYYY-MM-DD" 
+        format: "YYYY-MM-DD"
 
-      - label: "Slike"
-        name: "images"
+      - label: "Raspon tjedna"
+        name: "week_range"
+        widget: "string"
+        hint: "npr. 01.12. – 07.12.2025."
+
+      - label: "Nedjeljne sv. Mise"
+        name: "sunday_masses"
         widget: "list"
-        field:
-          label: "Slika"
-          name: "image"
-          widget: "image"
+        fields:
+          - label: "Mjesto"
+            name: "location"
+            widget: "select"
+            options: ["Grohote", "Srednje Selo", "Gornje Selo", "Donje Selo", "Maslinica", "Rogač"]
+          - label: "Vrijeme"
+            name: "time"
+            widget: "string"
+            hint: "npr. 10:00"
+          - label: "Nakana"
+            name: "intention"
+            widget: "string"
 
-      - label: "Sadržaj"
-        name: "body"
+      - label: "Tjedne sv. Mise"
+        name: "weekday_masses"
+        widget: "list"
+        fields:
+          - label: "Dan"
+            name: "day"
+            widget: "select"
+            options: ["Ponedjeljak", "Utorak", "Srijeda", "Četvrtak", "Petak", "Subota"]
+          - label: "Vrijeme"
+            name: "time"
+            widget: "string"
+            required: false
+            hint: "Ostavi prazno ako nema mise"
+          - label: "Napomena"
+            name: "note"
+            widget: "string"
+            required: false
+            hint: "npr. zornica, naziv blagdana"
+          - label: "Nakana"
+            name: "intention"
+            widget: "string"
+            required: false
+
+      - label: "Iduća nedjelja"
+        name: "next_sunday"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - label: "Datum"
+            name: "datum"
+            widget: "string"
+            hint: "npr. 07.12."
+          - label: "Naziv"
+            name: "title"
+            widget: "string"
+          - label: "Mise"
+            name: "masses"
+            widget: "list"
+            fields:
+              - label: "Mjesto"
+                name: "location"
+                widget: "select"
+                options: ["Grohote", "Srednje Selo", "Gornje Selo", "Donje Selo", "Maslinica", "Rogač"]
+              - label: "Vrijeme"
+                name: "time"
+                widget: "string"
+              - label: "Nakana"
+                name: "intention"
+                widget: "string"
+
+      - label: "Napomene"
+        name: "notes"
+        widget: "list"
+        required: false
+        field:
+          label: "Napomena"
+          name: "note"
+          widget: "string"
+
+      - label: "Komentar čitanja"
+        name: "commentary"
         widget: "markdown"
-        hint: "Dodaj raspored za tjedan."
+        required: false
+        hint: "Kratki komentar liturgijskih čitanja za tu nedjelju."
