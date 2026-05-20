@@ -1,8 +1,4 @@
-.schedule-table { width: 100%; }
-.schedule-table .col-location,
-.schedule-table .col-day { width: 35%; }
-.schedule-table .col-time { width: 15%; white-space: nowrap; }
-.schedule-table .col-intention { width: 50%; }
-.schedule-table .mass-time { margin-left: 0.4em; }
-.schedule-notes li { margin-bottom: 0.25em; }
-.schedule-commentary { font-style: italic; border-left: 4px solid #ccc; padding-left: 1em; }
+.box table { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
+.box table th, .box table td { padding: 0.4em 0.6em; text-align: left; border-bottom: 1px solid #e0e0e0; }
+.box table th { font-weight: bold; border-bottom: 2px solid #ccc; }
+.box blockquote { font-style: italic; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0; }

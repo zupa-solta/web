@@ -29,61 +29,12 @@ collections:
       - label: "Raspon tjedna"
         name: "week_range"
         widget: "string"
-        hint: "npr. 01.12. – 07.12.2025."
+        hint: "npr. 01.12.2025. – 07.12.2025."
 
-      - label: "Raspored"
-        name: "rows"
-        widget: "list"
-        summary: "{{fields.day}} {{fields.date}} – {{fields.intention}}"
-        fields:
-          - label: "Dan"
-            name: "day"
-            widget: "select"
-            required: false
-            options: ["Nedjelja", "Ponedjeljak", "Utorak", "Srijeda", "Četvrtak", "Petak", "Subota"]
-
-          - label: "Datum"
-            name: "date"
-            widget: "string"
-            required: false
-            hint: "npr. 01.12."
-
-          - label: "Vrijeme"
-            name: "time"
-            widget: "string"
-            required: false
-            hint: "npr. 10:00"
-
-          - label: "Mjesto"
-            name: "location"
-            widget: "select"
-            required: false
-            options: ["Grohote", "Srednje Selo", "Gornje Selo", "Donje Selo", "Maslinica", "Rogač"]
-
-          - label: "Napomena"
-            name: "note"
-            widget: "string"
-            required: false
-            hint: "npr. zornica, naziv blagdana"
-
-          - label: "Nakana"
-            name: "intention"
-            widget: "string"
-            required: false
-
-      - label: "Obavijesti"
-        name: "notes"
-        widget: "list"
-        required: false
-        field:
-          label: "Obavijest"
-          name: "note"
-          widget: "string"
-
-      - label: "Komentar čitanja"
-        name: "commentary"
+      - label: "Sadržaj"
+        name: "body"
         widget: "markdown"
-        required: false
+        hint: "Tablica rasporeda, obavijesti i komentar čitanja."
 
   - name: "posts"
     label: "Objave"
