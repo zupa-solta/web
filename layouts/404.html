@@ -1,16 +1,12 @@
 {{ define "main" }}
-
 {{ "<!-- Main -->" | safeHTML }}
 <section id="main" class="container">
     <header>
-        <h2>404 - Stranica nije pronađena</h2>
+        <h2>{{ i18n "notFoundHeading" }}</h2>
     </header>
     <div class="box">
-        
-        <i>"Tražite i naći ćete! Kucajte i otvorit će vam se!" (Mt 7,7)</i>
-
-        <p>Vratite se na <a href="/">početnu stranicu</a> i pokucajte na neka druga vrata.</p>
-        
+        <i>{{ i18n "notFoundQuote" }}</i>
+        <p>{{ i18n "notFoundBefore" }} <a href="/">{{ i18n "notFoundHome" }}</a> {{ i18n "notFoundAfter" }}</p>
     </div>
 </section>
 {{ end }}

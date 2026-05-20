@@ -21,3 +21,27 @@ other = "Notizie"
 
 [readMore]
 other = "Leggi di più"
+
+[weeklyHeading]
+other = "Programma settimanale"
+
+[draft]
+other = "BOZZA"
+
+[tags]
+other = "Tag:"
+
+[notFoundHeading]
+other = "404 - Pagina non trovata"
+
+[notFoundQuote]
+other = "\"Cercate e troverete! Bussate e vi sarà aperto!\" (Mt 7,7)"
+
+[notFoundBefore]
+other = "Torna alla"
+
+[notFoundHome]
+other = "pagina iniziale"
+
+[notFoundAfter]
+other = "e bussa a un'altra porta."

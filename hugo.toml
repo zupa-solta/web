@@ -22,6 +22,51 @@ defaultContentLanguage = "hr"
     weight = 2
 
 
+[languages.hr.menu]
+  [[languages.hr.menu.main]]
+    name = "Početna"
+    url = "/"
+    weight = 1
+  [[languages.hr.menu.main]]
+    name = "Povijest"
+    url = "/povijest/"
+    weight = 2
+  [[languages.hr.menu.main]]
+    name = "Crkve"
+    url = "/crkve/"
+    weight = 3
+  [[languages.hr.menu.main]]
+    name = "Tjedni raspored"
+    url = "/weekly"
+    weight = 4
+  [[languages.hr.menu.main]]
+    name = "Aktualno"
+    url = "/posts"
+    weight = 5
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[languages.en.menu.main]]
+    name = "History"
+    url = "/povijest/"
+    weight = 2
+  [[languages.en.menu.main]]
+    name = "Churches"
+    url = "/crkve/"
+    weight = 3
+  [[languages.en.menu.main]]
+    name = "Weekly schedule"
+    url = "/weekly"
+    weight = 4
+  [[languages.en.menu.main]]
+    name = "News"
+    url = "/posts"
+    weight = 5
+
+
 # Enter your tracking code to enable Google Analytics
 [services]
   [services.googleAnalytics]
@@ -72,29 +117,4 @@ defaultContentLanguage = "hr"
                    "Built with [hugo](https://gohugo.io/)",
                    "Theme: [Alpha Church](https://github.com/funkydan2/alpha-church)"
                   ] 
-
-[[menu.main]]
-  name = "Početna"
-  url = "/"
-  weight = 1
-
-[[menu.main]]
-  name = "Povijest"
-  url = "/povijest/"
-  weight = 2
-
-[[menu.main]]
-  name = "Crkve"
-  url = "/crkve/"
-  weight = 3
-
-[[menu.main]]
-  name = "Tjedni raspored"
-  url = "/weekly"
-  weight = 4
-
-[[menu.main]]
-  name = "Aktualno"
-  url = "/posts"
-  weight = 5
 

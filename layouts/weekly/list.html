@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section id="main" class="container">
+  <header>
+    <h2>{{ i18n "weeklyHeading" }}</h2>
+  </header>
+  <div class="box">
+    {{ range .Paginator.Pages }}
+    <div>
+      <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+      {{ with .Params.week_range }}<span class="date-meta"> – {{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+    {{ template "_internal/pagination.html" . }}
+  </div>
+</section>
+{{ end }}

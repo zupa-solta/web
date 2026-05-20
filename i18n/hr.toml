@@ -21,3 +21,27 @@ other = "Aktualno"
 
 [readMore]
 other = "Pročitaj više"
+
+[weeklyHeading]
+other = "Tjedni raspored"
+
+[draft]
+other = "NACRT"
+
+[tags]
+other = "Oznake:"
+
+[notFoundHeading]
+other = "404 - Stranica nije pronađena"
+
+[notFoundQuote]
+other = "\"Tražite i naći ćete! Kucajte i otvorit će vam se!\" (Mt 7,7)"
+
+[notFoundBefore]
+other = "Vratite se na"
+
+[notFoundHome]
+other = "početnu stranicu"
+
+[notFoundAfter]
+other = "i pokucajte na neka druga vrata."

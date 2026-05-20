@@ -21,3 +21,27 @@ other = "Wiadomości"
 
 [readMore]
 other = "Czytaj więcej"
+
+[weeklyHeading]
+other = "Tygodniowy rozkład"
+
+[draft]
+other = "SZKIC"
+
+[tags]
+other = "Tagi:"
+
+[notFoundHeading]
+other = "404 - Strona nie znaleziona"
+
+[notFoundQuote]
+other = "\"Szukajcie, a znajdziecie! Kołaczcie, a otworzą wam!\" (Mt 7,7)"
+
+[notFoundBefore]
+other = "Wróć na"
+
+[notFoundHome]
+other = "stronę główną"
+
+[notFoundAfter]
+other = "i zapukaj do innych drzwi."

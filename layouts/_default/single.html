@@ -3,7 +3,7 @@
 			{{ "<!-- Main -->" | safeHTML }}
 				<section id="main" class="container">
 					<header>
-						<h2>{{ if .Draft }}DRAFT: {{end}}{{ .Params.title }}</h2>
+						<h2>{{ if .Draft }}{{ i18n "draft" }}: {{end}}{{ .Params.title }}</h2>
 						{{ with .Params.subtitle }}<p>{{ . }}</p>{{ end }}
 					</header>
 					<div class="box">
@@ -15,7 +15,7 @@
 							<hr />
 							<div id="meta">
 							{{ with .Params.tags }}
-								<p>Tags:
+								<p>{{ i18n "tags" }}
 									{{ range $index, $key:= . }}
 										{{ if $index }}, {{ end }}
 										{{ if gt (len $key) 0 }}

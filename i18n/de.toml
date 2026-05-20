@@ -21,3 +21,27 @@ other = "Nachrichten"
 
 [readMore]
 other = "Mehr lesen"
+
+[weeklyHeading]
+other = "Wochenplan"
+
+[draft]
+other = "ENTWURF"
+
+[tags]
+other = "Tags:"
+
+[notFoundHeading]
+other = "404 - Seite nicht gefunden"
+
+[notFoundQuote]
+other = "\"Sucht, und ihr werdet finden! Klopft an, und es wird euch aufgetan!\" (Mt 7,7)"
+
+[notFoundBefore]
+other = "Kehren Sie zur"
+
+[notFoundHome]
+other = "Startseite"
+
+[notFoundAfter]
+other = "zurück und versuchen Sie eine andere Tür."

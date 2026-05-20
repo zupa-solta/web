@@ -21,3 +21,27 @@ other = "News"
 
 [readMore]
 other = "Read more"
+
+[weeklyHeading]
+other = "Weekly schedule"
+
+[draft]
+other = "DRAFT"
+
+[tags]
+other = "Tags:"
+
+[notFoundHeading]
+other = "404 - Page not found"
+
+[notFoundQuote]
+other = "\"Seek and you will find! Knock and the door will be opened to you!\" (Mt 7:7)"
+
+[notFoundBefore]
+other = "Go back to the"
+
+[notFoundHome]
+other = "home page"
+
+[notFoundAfter]
+other = "and try another door."
