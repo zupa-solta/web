@@ -1,46 +1,21 @@
-#static/admin/config.yml
-
 backend:
   name: git-gateway
   branch: master
-locale: "hr" # Language code for localization
-format: "yaml" 
-media_folder: "static/img" # Path where uploaded media files are stored
-public_folder: "/img"      # Public URL path for the media files
+
+locale: "hr"
+media_folder: "static/img"
+public_folder: "/img"
+
 collections:
-  - name: "posts"
-    label: "Objave" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields for each document, usually in front matter
-      - label: "Naslov"
-        name: "title"
-        widget: "string"
-
-      - label: "Datum objave"
-        name: "date"
-        widget: "datetime"
-        format: "YYYY-MM-DD" 
-
-      - label: "Slike"
-        name: "images"
-        widget: "list"
-        field:
-          label: "Slika"
-          name: "image"
-          widget: "image"
-
-      - label: "Sadržaj"
-        name: "body"
-        widget: "markdown"
-        hint: "Napiši dvi-tri pametne."
 
   - name: "weekly"
     label: "Tjedni raspored"
     folder: "content/weekly"
     create: true
-    summary: "{{title}}"
+    slug: "{{slug}}"
+    summary: "{{title}} ({{week_range}})"
     fields:
+
       - label: "Naslov"
         name: "title"
         widget: "string"
@@ -56,79 +31,52 @@ collections:
         widget: "string"
         hint: "npr. 01.12. – 07.12.2025."
 
-      - label: "Nedjeljne sv. Mise"
-        name: "sunday_masses"
+      - label: "Raspored"
+        name: "rows"
         widget: "list"
-        fields:
-          - label: "Mjesto"
-            name: "location"
-            widget: "select"
-            options: ["Grohote", "Srednje Selo", "Gornje Selo", "Donje Selo", "Maslinica", "Rogač"]
-          - label: "Vrijeme"
-            name: "time"
-            widget: "string"
-            hint: "npr. 10:00"
-          - label: "Nakana"
-            name: "intention"
-            widget: "string"
-
-      - label: "Tjedne sv. Mise"
-        name: "weekday_masses"
-        widget: "list"
+        summary: "{{fields.day}} {{fields.date}} – {{fields.intention}}"
         fields:
           - label: "Dan"
             name: "day"
             widget: "select"
-            options: ["Ponedjeljak", "Utorak", "Srijeda", "Četvrtak", "Petak", "Subota"]
+            required: false
+            options: ["Nedjelja", "Ponedjeljak", "Utorak", "Srijeda", "Četvrtak", "Petak", "Subota"]
+
+          - label: "Datum"
+            name: "date"
+            widget: "string"
+            required: false
+            hint: "npr. 01.12."
+
           - label: "Vrijeme"
             name: "time"
             widget: "string"
             required: false
-            hint: "Ostavi prazno ako nema mise"
+            hint: "npr. 10:00"
+
+          - label: "Mjesto"
+            name: "location"
+            widget: "select"
+            required: false
+            options: ["Grohote", "Srednje Selo", "Gornje Selo", "Donje Selo", "Maslinica", "Rogač"]
+
           - label: "Napomena"
             name: "note"
             widget: "string"
             required: false
             hint: "npr. zornica, naziv blagdana"
+
           - label: "Nakana"
             name: "intention"
             widget: "string"
             required: false
 
-      - label: "Iduća nedjelja"
-        name: "next_sunday"
-        widget: "object"
-        required: false
-        collapsed: true
-        fields:
-          - label: "Datum"
-            name: "datum"
-            widget: "string"
-            hint: "npr. 07.12."
-          - label: "Naziv"
-            name: "title"
-            widget: "string"
-          - label: "Mise"
-            name: "masses"
-            widget: "list"
-            fields:
-              - label: "Mjesto"
-                name: "location"
-                widget: "select"
-                options: ["Grohote", "Srednje Selo", "Gornje Selo", "Donje Selo", "Maslinica", "Rogač"]
-              - label: "Vrijeme"
-                name: "time"
-                widget: "string"
-              - label: "Nakana"
-                name: "intention"
-                widget: "string"
-
-      - label: "Napomene"
+      - label: "Obavijesti"
         name: "notes"
         widget: "list"
         required: false
         field:
-          label: "Napomena"
+          label: "Obavijest"
           name: "note"
           widget: "string"
 
@@ -136,4 +84,30 @@ collections:
         name: "commentary"
         widget: "markdown"
         required: false
-        hint: "Kratki komentar liturgijskih čitanja za tu nedjelju."
+
+  - name: "posts"
+    label: "Objave"
+    folder: "content/posts"
+    create: true
+    fields:
+      - label: "Naslov"
+        name: "title"
+        widget: "string"
+
+      - label: "Datum objave"
+        name: "date"
+        widget: "datetime"
+        format: "YYYY-MM-DD"
+
+      - label: "Slike"
+        name: "images"
+        widget: "list"
+        required: false
+        field:
+          label: "Slika"
+          name: "image"
+          widget: "image"
+
+      - label: "Sadržaj"
+        name: "body"
+        widget: "markdown"

@@ -20,11 +20,6 @@
         </thead>
         <tbody>
           {{ range .Params.rows }}
-          {{ if .header }}
-          <tr class="schedule-next-week">
-            <td colspan="6"><strong>{{ .header }}</strong></td>
-          </tr>
-          {{ else }}
           <tr>
             <td><strong>{{ .day }}</strong></td>
             <td>{{ .date }}</td>
@@ -33,7 +28,6 @@
             <td>{{ .note }}</td>
             <td>{{ if .intention }}{{ .intention }}{{ else }}<em>Nema sv. Mise</em>{{ end }}</td>
           </tr>
-          {{ end }}
           {{ end }}
         </tbody>
       </table>
