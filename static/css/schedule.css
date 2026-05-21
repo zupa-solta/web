@@ -1,4 +1,8 @@
-.box table { width: 100%; border-collapse: collapse; margin-bottom: 1.5em; }
+.box table { display: block; width: 100%; max-width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; border-collapse: collapse; margin-bottom: 1.5em; }
 .box table th, .box table td { padding: 0.4em 0.6em; text-align: left; border-bottom: 1px solid #e0e0e0; }
 .box table th { font-weight: bold; border-bottom: 2px solid #ccc; }
 .box blockquote { font-style: italic; border-left: 4px solid #ccc; padding-left: 1em; margin: 1em 0; }
+.weekly-nav { display: flex; justify-content: space-between; align-items: center; margin-top: 1.5em; padding-top: 1em; border-top: 1px solid #e0e0e0; font-size: 0.9em; }
+.weekly-nav-prev { text-align: left; }
+.weekly-nav-back { text-align: center; }
+.weekly-nav-next { text-align: right; }

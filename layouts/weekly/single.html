@@ -6,6 +6,21 @@
   </header>
   <div class="box">
     {{ .Content }}
+    <nav class="weekly-nav">
+      <div class="weekly-nav-prev">
+        {{ with .PrevInSection }}
+          <a href="{{ .Permalink }}">{{ i18n "prevEntry" }} – {{ .Title }}</a>
+        {{ end }}
+      </div>
+      <div class="weekly-nav-back">
+        <a href="{{ .CurrentSection.Parent.Permalink }}weekly">{{ i18n "backToList" }}</a>
+      </div>
+      <div class="weekly-nav-next">
+        {{ with .NextInSection }}
+          <a href="{{ .Permalink }}">{{ .Title }} – {{ i18n "nextEntry" }}</a>
+        {{ end }}
+      </div>
+    </nav>
   </div>
 </section>
 {{ end }}

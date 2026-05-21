@@ -45,3 +45,12 @@ other = "home page"
 
 [notFoundAfter]
 other = "and try another door."
+
+[backToList]
+other = "← Back to list"
+
+[prevEntry]
+other = "← Previous"
+
+[nextEntry]
+other = "Next →"

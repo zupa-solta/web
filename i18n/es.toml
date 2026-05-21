@@ -45,3 +45,12 @@ other = "página de inicio"
 
 [notFoundAfter]
 other = "y llama a otra puerta."
+
+[backToList]
+other = "← Volver a la lista"
+
+[prevEntry]
+other = "← Anterior"
+
+[nextEntry]
+other = "Siguiente →"

@@ -4,13 +4,14 @@
     <h2>{{ i18n "weeklyHeading" }}</h2>
   </header>
   <div class="box">
-    {{ range .Paginator.Pages }}
+    {{ $paginator := .Paginate .Pages 10 }}
+    {{ range $paginator.Pages }}
     <div>
       <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
       {{ with .Params.week_range }}<span class="date-meta"> – {{ . }}</span>{{ end }}
     </div>
     {{ end }}
-    {{ template "_internal/pagination.html" . }}
+    {{ template "_internal/pagination.html" $paginator }}
   </div>
 </section>
 {{ end }}

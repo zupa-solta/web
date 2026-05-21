@@ -45,3 +45,12 @@ other = "početnu stranicu"
 
 [notFoundAfter]
 other = "i pokucajte na neka druga vrata."
+
+[backToList]
+other = "← Povratak na popis"
+
+[prevEntry]
+other = "← Prethodni"
+
+[nextEntry]
+other = "Sljedeći →"
