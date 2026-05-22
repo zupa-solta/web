@@ -7,5 +7,7 @@
 .weekly-nav-back { text-align: center; }
 .weekly-nav-next { text-align: right; }
 
+#header { background: rgba(68, 68, 68, 0.5) !important; }
+
 .flag-icon { width: 22px; height: auto; vertical-align: middle; margin-right: 4px; border: 1px solid rgba(0,0,0,0.2); border-radius: 1px; }
 ul.lang-dropdown { width: auto !important; min-width: 0 !important; }

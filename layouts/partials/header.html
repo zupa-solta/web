@@ -21,9 +21,10 @@
     	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
 		{{- end -}}
 		{{ hugo.Generator }}
-		{{- with site.Params.Favicon.sml}}<link rel="shortcut icon" href="{{ . }}" sizes="16x16"/>{{ end -}}
-		{{- with site.Params.Favicon.med}}<link rel="shortcut icon" href="{{ . }}" sizes="32x32"/>{{ end -}}
-		{{- with site.Params.Favicon.lge}}<link rel="shortcut icon" href="{{ . }}" sizes="96x96"/>{{ end -}}
+		{{- with site.Params.Favicon.ico}}<link rel="icon" href="{{ . }}" />{{ end -}}
+		{{- with site.Params.Favicon.sml}}<link rel="icon" href="{{ . }}" sizes="16x16" type="image/png"/>{{ end -}}
+		{{- with site.Params.Favicon.med}}<link rel="icon" href="{{ . }}" sizes="32x32" type="image/png"/>{{ end -}}
+		{{- with site.Params.Favicon.lge}}<link rel="icon" href="{{ . }}" sizes="96x96" type="image/png"/>{{ end -}}
 		{{ with site.Params.Podcast.itunes }}
 			<meta name="apple-itunes-app" content="app-id={{ replaceRE "https\\:\\/\\/itunes\\.apple\\.com\\/[a-z]{2}\\/podcast\\/[a-z\\-]*\\/id(\\d{10}).*" "$1" . }}" />
 		{{ end }}

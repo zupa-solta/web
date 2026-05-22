@@ -1,6 +1,6 @@
 <body {{ if .IsHome }} class="landing" {{ end }} >
   <div id="page-wrapper">
-    <header id="header" {{ if .IsHome }} class="alt" {{ end }} >
+    <header id="header">
       <h1><a href="{{ "/" | relLangURL }}">{{ .Site.Params.title }}</a></h1>
 
       {{ "<!-- Nav -->" | safeHTML }}

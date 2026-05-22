@@ -207,9 +207,9 @@ instant_page = true
     email = "test@example.com"
 
   [params.favicon]
-    sml = "./img/favicon/favicon-16x16.png"
-    med = "./img/favicon/favicon-32x32.png"
-    #lge = "example96.png"
+    ico = "/img/favicon/favicon.ico"
+    sml = "/img/favicon/favicon-16x16.png"
+    med = "/img/favicon/favicon-32x32.png"
 
   [params.banner]
     image = "./img/grohote_solta_sv_stjepan.jpg"
