@@ -1,8 +1,8 @@
 +++
 [banner]
   [[banner.button]]
-      url = "weekly"
-      text = "Tjedni raspored"
+      url = "mise"
+      text = "Svete mise"
       type = "primary"
 
   [[banner.button]]
@@ -12,9 +12,8 @@
 
 #Details for the box below the banner
 [services]
-  title = "Svete mise"
-  text = "Raspored bogoslužja po župama pregledajte [ovdje](/mise)."
-  map_location = "Crkva svetog Stjepana"
+  title = "Tjedni raspored"
+  text = "Raspored bogoslužja po župama pregledajte [ovdje](/weekly)."
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.

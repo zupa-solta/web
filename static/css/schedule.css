@@ -6,3 +6,6 @@
 .weekly-nav-prev { text-align: left; }
 .weekly-nav-back { text-align: center; }
 .weekly-nav-next { text-align: right; }
+
+.flag-icon { width: 22px; height: auto; vertical-align: middle; margin-right: 4px; border: 1px solid rgba(0,0,0,0.2); border-radius: 1px; }
+ul.lang-dropdown { width: auto !important; min-width: 0 !important; }

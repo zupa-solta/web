@@ -16,10 +16,32 @@ defaultContentLanguage = "hr"
   [languages.hr]
     languageName = "Hrvatski"
     weight = 1
+    contentDir = "content"
 
   [languages.en]
     languageName = "English"
     weight = 2
+    contentDir = "content/en"
+
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 3
+    contentDir = "content/de"
+
+  [languages.es]
+    languageName = "Español"
+    weight = 4
+    contentDir = "content/es"
+
+  [languages.it]
+    languageName = "Italiano"
+    weight = 5
+    contentDir = "content/it"
+
+  [languages.pl]
+    languageName = "Polski"
+    weight = 6
+    contentDir = "content/pl"
 
 
 [languages.hr.menu]
@@ -67,6 +89,94 @@ defaultContentLanguage = "hr"
     weight = 5
 
 
+[languages.de.menu]
+  [[languages.de.menu.main]]
+    name = "Startseite"
+    url = "/"
+    weight = 1
+  [[languages.de.menu.main]]
+    name = "Geschichte"
+    url = "/povijest/"
+    weight = 2
+  [[languages.de.menu.main]]
+    name = "Kirchen"
+    url = "/crkve/"
+    weight = 3
+  [[languages.de.menu.main]]
+    name = "Wochenplan"
+    url = "/weekly"
+    weight = 4
+  [[languages.de.menu.main]]
+    name = "Aktuelles"
+    url = "/posts"
+    weight = 5
+
+[languages.es.menu]
+  [[languages.es.menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[languages.es.menu.main]]
+    name = "Historia"
+    url = "/povijest/"
+    weight = 2
+  [[languages.es.menu.main]]
+    name = "Iglesias"
+    url = "/crkve/"
+    weight = 3
+  [[languages.es.menu.main]]
+    name = "Horario semanal"
+    url = "/weekly"
+    weight = 4
+  [[languages.es.menu.main]]
+    name = "Noticias"
+    url = "/posts"
+    weight = 5
+
+[languages.it.menu]
+  [[languages.it.menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[languages.it.menu.main]]
+    name = "Storia"
+    url = "/povijest/"
+    weight = 2
+  [[languages.it.menu.main]]
+    name = "Chiese"
+    url = "/crkve/"
+    weight = 3
+  [[languages.it.menu.main]]
+    name = "Orario settimanale"
+    url = "/weekly"
+    weight = 4
+  [[languages.it.menu.main]]
+    name = "Notizie"
+    url = "/posts"
+    weight = 5
+
+[languages.pl.menu]
+  [[languages.pl.menu.main]]
+    name = "Strona główna"
+    url = "/"
+    weight = 1
+  [[languages.pl.menu.main]]
+    name = "Historia"
+    url = "/povijest/"
+    weight = 2
+  [[languages.pl.menu.main]]
+    name = "Kościoły"
+    url = "/crkve/"
+    weight = 3
+  [[languages.pl.menu.main]]
+    name = "Plan tygodniowy"
+    url = "/weekly"
+    weight = 4
+  [[languages.pl.menu.main]]
+    name = "Aktualności"
+    url = "/posts"
+    weight = 5
+
 # Enter your tracking code to enable Google Analytics
 [services]
   [services.googleAnalytics]
@@ -88,9 +198,7 @@ defaultContentLanguage = "hr"
   subtitle = "Grohote | Gornje Selo | Srednje Selo | Donje Selo | Maslinica"
   keywords = ["solta", "zupa", "crkva"]
   languageCode = "hr" 
-  bible_popups = "faithlife" #faithlife, blb
-  bible_version = "CSB"
-  instant_page = true
+instant_page = true
   customCSS = ["/css/schedule.css"]
 
 
@@ -115,6 +223,7 @@ defaultContentLanguage = "hr"
     copyright = ["© Župe otoka Šolte",
                    "Built by [tkulic](https://github.com/tkulic)",
                    "Built with [hugo](https://gohugo.io/)",
-                   "Theme: [Alpha Church](https://github.com/funkydan2/alpha-church)"
-                  ] 
+                   "Theme: [Alpha Church](https://github.com/funkydan2/alpha-church)",
+                   "Hosted by [Netlify](https://www.netlify.com/privacy/)"
+                  ]
 

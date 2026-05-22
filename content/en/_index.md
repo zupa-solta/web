@@ -1,18 +1,17 @@
 +++
 [banner]
   [[banner.button]]
-      url = "weekly"
-      text = "Weekly schedule"
+      url = "/en/mise"
+      text = "Holy Masses"
       type = "primary"
 
   [[banner.button]]
       text = "Contact"
-      url = "/kontakt"
+      url = "/en/kontakt"
 
 [services]
-  title = "Holy Masses"
-  text = "View the liturgy schedule by parish [here](/mise)."
-  map_location = "Church of Saint Stephen"
+  title = "Weekly Schedule"
+  text = "View the weekly liturgy schedule [here](/en/weekly)."
 
 [feature_icons]
   enable = true
@@ -23,7 +22,7 @@
     accent = "1"
     title = "News"
     text = "Latest from the parish"
-    url = "/posts"
+    url = "/en/posts"
 
   [[feature_icons.tile]]
     icon = "fa-church"
@@ -31,15 +30,15 @@
     accent = "2"
     title = "Churches"
     text = "From Stephen to Nicholas"
-    url = "/crkve"
+    url = "/en/crkve"
 
   [[feature_icons.tile]]
     icon = "fa-child"
     icon_pack = "fas"
     accent = "5"
-    title = "Catechism"
+    title = "Catechesis"
     text = "The future rests with the young"
-    url = "/vjeronauk"
+    url = "/en/vjeronauk"
 
   [[feature_icons.tile]]
     icon = "fa-cross"
@@ -47,7 +46,7 @@
     accent = "3"
     title = "History"
     text = "Historia est magistra vitae"
-    url = "/povijest"
+    url = "/en/povijest"
 
 [feature_images]
   enable = true
