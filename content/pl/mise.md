@@ -28,3 +28,7 @@ description = "Rozkład niedzielnych mszy świętych na wyspie Šolta – zimowe
 | 11:30          | Donje Selo  | [Kościół parafialny św. Marcina Biskupa](https://www.openstreetmap.org/way/211314237) |
 | 11:30          | Maslinica   | [Kościół parafialny św. Mikołaja](https://www.openstreetmap.org/way/97391560) |
 | 16:00          | Nečujam     | [Kościół św. Piotra](https://www.openstreetmap.org/way/433224963) |
+
+---
+
+→ [Katolicki kalendarz 2026](/pl/kalendar/)

@@ -12,6 +12,7 @@
     </div>
     {{ end }}
     {{ template "_internal/pagination.html" $paginator }}
+    <p style="margin-top:1.5em;">→ <a href="{{ "kalendar/" | relLangURL }}">{{ i18n "calendarLink" }}</a></p>
   </div>
 </section>
 {{ end }}

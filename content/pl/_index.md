@@ -50,6 +50,14 @@
     title = "Archidiecezja Split-Makarska"
     url = "https://smn.hr/"
     button_text = "O archidiecezji"
+  [[feature_images.tile]]
+    title = "Watykan"
+    url = "https://www.vatican.va/"
+    button_text = "O Stolicy Apostolskiej"
+  [[feature_images.tile]]
+    title = "Katolicka Agencja Informacyjna"
+    url = "https://ika.hkm.hr/"
+    button_text = "Wiadomości z Kościoła"
 [CTA]
   enable = true
   heading = "Wyślij nam wiadomość!"

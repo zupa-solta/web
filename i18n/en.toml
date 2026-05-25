@@ -54,3 +54,6 @@ other = "← Previous"
 
 [nextEntry]
 other = "Next →"
+
+[calendarLink]
+other = "Catholic Calendar 2026"

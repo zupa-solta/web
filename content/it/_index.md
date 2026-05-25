@@ -50,6 +50,14 @@
     title = "Arcidiocesi di Spalato-Makarska"
     url = "https://smn.hr/"
     button_text = "Sull'arcidiocesi"
+  [[feature_images.tile]]
+    title = "Vaticano"
+    url = "https://www.vatican.va/"
+    button_text = "Sulla Santa Sede"
+  [[feature_images.tile]]
+    title = "Agenzia Cattolica di Informazione"
+    url = "https://ika.hkm.hr/"
+    button_text = "Notizie dalla Chiesa"
 [CTA]
   enable = true
   heading = "Inviaci un messaggio!"

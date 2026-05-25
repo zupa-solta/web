@@ -28,3 +28,7 @@ description = "Sonntagsmessenplan auf der Insel Šolta – Winter- und Sommergot
 | 11:30           | Donje Selo  | [Pfarrkirche des hl. Martin Bischof](https://www.openstreetmap.org/way/211314237) |
 | 11:30           | Maslinica   | [Pfarrkirche des hl. Nikolaus](https://www.openstreetmap.org/way/97391560) |
 | 16:00           | Nečujam     | [Kirche des hl. Petrus](https://www.openstreetmap.org/way/433224963) |
+
+---
+
+→ [Katholischer Kalender 2026](/de/kalendar/)

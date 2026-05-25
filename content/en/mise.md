@@ -28,3 +28,7 @@ description = "Sunday Mass schedule on the island of Šolta – winter and summe
 | 11:30            | Donje Selo  | [Parish Church of Saint Martin the Bishop](https://www.openstreetmap.org/way/211314237) |
 | 11:30            | Maslinica   | [Parish Church of Saint Nicholas](https://www.openstreetmap.org/way/97391560) |
 | 16:00            | Nečujam     | [Church of Saint Peter](https://www.openstreetmap.org/way/433224963) |
+
+---
+
+→ [Catholic Calendar 2026](/en/kalendar/)

@@ -66,6 +66,16 @@
     url = "https://smn.hr/"
     button_text = "Više o nadbiskupiji"
 
+  [[feature_images.tile]]
+    title = "Vatikan"
+    url = "https://www.vatican.va/"
+    button_text = "O Svetoj Stolici"
+
+  [[feature_images.tile]]
+    title = "Informativna katolička agencija"
+    url = "https://ika.hkm.hr/"
+    button_text = "Novosti iz Crkve"
+
 [CTA]
   enable = true
   heading = "Pošaljite poruku!"

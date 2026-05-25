@@ -62,8 +62,8 @@ defaultContentLanguage = "hr"
     url = "/weekly"
     weight = 4
   [[languages.hr.menu.main]]
-    name = "Aktualno"
-    url = "/posts"
+    name = "Kalendar"
+    url = "/kalendar/"
     weight = 5
 
 [languages.en.menu]
@@ -84,8 +84,8 @@ defaultContentLanguage = "hr"
     url = "/weekly"
     weight = 4
   [[languages.en.menu.main]]
-    name = "News"
-    url = "/posts"
+    name = "Calendar"
+    url = "/kalendar/"
     weight = 5
 
 
@@ -107,8 +107,8 @@ defaultContentLanguage = "hr"
     url = "/weekly"
     weight = 4
   [[languages.de.menu.main]]
-    name = "Aktuelles"
-    url = "/posts"
+    name = "Kalender"
+    url = "/kalendar/"
     weight = 5
 
 [languages.es.menu]
@@ -129,8 +129,8 @@ defaultContentLanguage = "hr"
     url = "/weekly"
     weight = 4
   [[languages.es.menu.main]]
-    name = "Noticias"
-    url = "/posts"
+    name = "Calendario"
+    url = "/kalendar/"
     weight = 5
 
 [languages.it.menu]
@@ -151,8 +151,8 @@ defaultContentLanguage = "hr"
     url = "/weekly"
     weight = 4
   [[languages.it.menu.main]]
-    name = "Notizie"
-    url = "/posts"
+    name = "Calendario"
+    url = "/kalendar/"
     weight = 5
 
 [languages.pl.menu]
@@ -173,8 +173,8 @@ defaultContentLanguage = "hr"
     url = "/weekly"
     weight = 4
   [[languages.pl.menu.main]]
-    name = "Aktualności"
-    url = "/posts"
+    name = "Kalendarz"
+    url = "/kalendar/"
     weight = 5
 
 # Enter your tracking code to enable Google Analytics

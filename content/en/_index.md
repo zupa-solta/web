@@ -61,6 +61,16 @@
     url = "https://smn.hr/"
     button_text = "About the archdiocese"
 
+  [[feature_images.tile]]
+    title = "Vatican"
+    url = "https://www.vatican.va/"
+    button_text = "About the Holy See"
+
+  [[feature_images.tile]]
+    title = "Catholic Information Agency"
+    url = "https://ika.hkm.hr/"
+    button_text = "Church News"
+
 [CTA]
   enable = true
   heading = "Send us a message!"

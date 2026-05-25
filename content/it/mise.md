@@ -28,3 +28,7 @@ description = "Orario delle messe domenicali sull'isola di Šolta – orari inve
 | 11:30          | Donje Selo  | [Chiesa parrocchiale di San Martino Vescovo](https://www.openstreetmap.org/way/211314237) |
 | 11:30          | Maslinica   | [Chiesa parrocchiale di San Nicola](https://www.openstreetmap.org/way/97391560) |
 | 16:00          | Nečujam     | [Chiesa di San Pietro](https://www.openstreetmap.org/way/433224963) |
+
+---
+
+→ [Calendario Cattolico 2026](/it/kalendar/)
