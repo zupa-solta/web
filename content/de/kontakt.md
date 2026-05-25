@@ -1,5 +1,6 @@
 +++
 title = "Kontakt"
+description = "Kontakt und Öffnungszeiten des Pfarramts auf der Insel Šolta – Adressen und Telefonnummern der Kirchen in Grohote, Gornje Selo, Rogač und Maslinica."
 +++
 
 ## Pfarrbüro

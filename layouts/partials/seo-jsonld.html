@@ -1,0 +1,23 @@
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Church",
+  "name": "Župe otoka Šolte",
+  "description": "{{ site.Params.subtitle }}",
+  "url": "{{ site.BaseURL }}",
+  "logo": "{{ "/img/favicon/favicon.png" | absURL }}",
+  "image": "{{ site.Params.Banner.image | absURL }}",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Šolta",
+    "addressRegion": "Splitsko-dalmatinska županija",
+    "addressCountry": "HR"
+  },
+  "areaServed": "Otok Šolta",
+  "sameAs": [
+    "https://smn.hr/"
+  ]
+}
+</script>
+{{ end }}

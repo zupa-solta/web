@@ -1,5 +1,6 @@
 +++
 title = "Contact"
+description = "Contact and opening hours of the parish office on the island of Šolta – addresses and phone numbers of the churches in Grohote, Gornje Selo, Rogač and Maslinica."
 +++
 
 ## Parish Office

@@ -1,5 +1,6 @@
 +++
 title = "Kontakt"
+description = "Kontakt i godziny otwarcia biura parafialnego na wyspie Šolta – adresy i numery telefonów kościołów w Grohote, Gornje Selu, Rogaču i Maslinicy."
 +++
 
 ## Kancelaria parafialna

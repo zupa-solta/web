@@ -1,5 +1,6 @@
 +++
 title = "Contatto"
+description = "Contatti e orari dell'ufficio parrocchiale sull'isola di Šolta – indirizzi e numeri di telefono delle chiese a Grohote, Gornje Selo, Rogač e Maslinica."
 +++
 
 ## Ufficio parrocchiale

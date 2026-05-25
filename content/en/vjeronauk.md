@@ -1,5 +1,6 @@
 +++
 title = "Catechesis"
+description = "Catechesis and parish pastoral on the island of Šolta – first communion, confirmation and altar servers in the parishes of Grohote and Gornje Selo."
 +++
 
 ## Parish Catechesis and Gatherings

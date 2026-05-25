@@ -1,10 +1,10 @@
 <!DOCTYPE HTML>
 {{ with site.Params.languageCode }}<html lang="{{ . }}">{{ end }}
 	<head>
-		<title>{{ if .Title }}{{ .Title }} | {{ end }} {{ site.Params.title }}</title>
+		<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ site.Params.title }}</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		{{ with site.Params.subtitle }}<meta name="description" content="{{ . }}">{{ end }}
+		<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | truncate 160 }}{{ else }}{{ site.Params.subtitle }}{{ end }}{{ end }}" />
 		{{ with site.Params.Author.name }}<meta name="author" content="{{ . }}">{{ end }}
 		<meta name="keywords" content="
 			{{- if .IsHome -}}
@@ -24,12 +24,13 @@
 		{{- with site.Params.Favicon.ico}}<link rel="icon" href="{{ . }}" />{{ end -}}
 		{{- with site.Params.Favicon.sml}}<link rel="icon" href="{{ . }}" sizes="16x16" type="image/png"/>{{ end -}}
 		{{- with site.Params.Favicon.med}}<link rel="icon" href="{{ . }}" sizes="32x32" type="image/png"/>{{ end -}}
-		{{- with site.Params.Favicon.lge}}<link rel="icon" href="{{ . }}" sizes="96x96" type="image/png"/>{{ end -}}
+		{{- with site.Params.Favicon.lge}}<link rel="icon" href="{{ . }}" sizes="any" type="image/png"/><link rel="apple-touch-icon" href="{{ . }}"/>{{ end -}}
 		{{ with site.Params.Podcast.itunes }}
 			<meta name="apple-itunes-app" content="app-id={{ replaceRE "https\\:\\/\\/itunes\\.apple\\.com\\/[a-z]{2}\\/podcast\\/[a-z\\-]*\\/id(\\d{10}).*" "$1" . }}" />
 		{{ end }}
 		{{ template "_internal/opengraph.html" . }}
 		{{ template "_internal/twitter_cards.html" . }}
+		{{ partial "seo-jsonld.html" . }}
 		<link rel="stylesheet" href="{{ "fontawesome/css/all.min.css" | absURL }}" />
 		{{- $css := site.Data.libs.css -}}
 		{{ if and .IsPage $css }}{{ printf "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/plyr/%s/plyr.min.css\" integrity=\"%s\" crossorigin=\"anonymous\">" $css.plyr.version $css.plyr.integrity | safeHTML }}{{ end }}

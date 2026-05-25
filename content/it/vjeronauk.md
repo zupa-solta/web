@@ -1,5 +1,6 @@
 +++
 title = "Catechesi"
+description = "Catechesi e pastorale parrocchiale sull'isola di Šolta – prima comunione, cresima e chierichetti nelle parrocchie di Grohote e Gornje Selo."
 +++
 
 ## Catechesi parrocchiale e incontri

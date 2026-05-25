@@ -1,5 +1,6 @@
 +++
 title = "Kontakt"
+description = "Vjeronauk i župni pastoral na otoku Šolti – prvopričesnici, krizmanici i ministranti u župama Grohote i Gornje Selo."
 +++
 
 ## Župna kateheza i susreti

@@ -196,9 +196,9 @@ defaultContentLanguage = "hr"
 [params]
   title = "Župe otoka Šolte"
   subtitle = "Grohote | Gornje Selo | Srednje Selo | Donje Selo | Maslinica"
-  keywords = ["solta", "zupa", "crkva"]
-  languageCode = "hr" 
-instant_page = true
+  keywords = ["misa Šolta", "crkva Šolta", "župa Šolta", "bogoslužje Šolta", "Grohote crkva", "svete mise Šolta", "katolička župa Šolta", "raspored misa Šolta"]
+  languageCode = "hr"
+  instant_page = true
   customCSS = ["/css/schedule.css"]
 
 
@@ -210,6 +210,7 @@ instant_page = true
     ico = "/img/favicon/favicon.ico"
     sml = "/img/favicon/favicon-16x16.png"
     med = "/img/favicon/favicon-32x32.png"
+    lge = "/img/favicon/favicon.png"
 
   [params.banner]
     image = "./img/grohote_solta_sv_stjepan.jpg"

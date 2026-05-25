@@ -1,5 +1,6 @@
 +++
 title = "Kontakt"
+description = "Kontakt i radno vrijeme župnog ureda na otoku Šolti – adrese i telefoni crkava u Grohotama, Gornjem Selu, Rogaču i Maslinici."
 +++
 
 ## Župni ured

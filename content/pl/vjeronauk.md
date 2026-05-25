@@ -1,5 +1,6 @@
 +++
 title = "Katecheza"
+description = "Katecheza i duszpasterstwo parafialne na wyspie Šolta – pierwsza komunia, bierzmowanie i ministranci w parafiach Grohote i Gornje Selo."
 +++
 
 ## Katecheza parafialna i spotkania

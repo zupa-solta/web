@@ -1,5 +1,6 @@
 +++
 title = "Katechese"
+description = "Katechese und Gemeindeseelsorge auf der Insel Šolta – Erstkommunion, Firmung und Messdiener in den Pfarreien Grohote und Gornje Selo."
 +++
 
 ## Pfarrkatechese und Treffen

@@ -1,5 +1,6 @@
 +++
 title = "Catequesis"
+description = "Catequesis y pastoral parroquial en la isla de Šolta – primera comunión, confirmación y acólitos en las parroquias de Grohote y Gornje Selo."
 +++
 
 ## Catequesis Parroquial y Encuentros
