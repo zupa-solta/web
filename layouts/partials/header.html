@@ -30,6 +30,9 @@
 		{{ end }}
 		{{ template "_internal/opengraph.html" . }}
 		{{ template "_internal/twitter_cards.html" . }}
+		{{- if not .Params.images }}{{ with site.Params.banner.image }}
+		<meta property="og:image" content="{{ . | absURL }}" />
+		{{- end }}{{ end }}
 		{{ partial "seo-jsonld.html" . }}
 		<link rel="stylesheet" href="{{ "fontawesome/css/all.min.css" | absURL }}" />
 		{{- $css := site.Data.libs.css -}}
@@ -43,4 +46,12 @@
 
       
   	{{- end -}}
+		{{- if .IsTranslated }}
+		{{ range .AllTranslations -}}
+		<link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+		{{ end -}}
+		{{ range .AllTranslations }}{{ if eq .Language.Lang "hr" -}}
+		<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+		{{- end }}{{ end }}
+		{{- end }}
 	</head>
