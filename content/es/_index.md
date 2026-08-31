@@ -8,8 +8,8 @@
       text = "Contacto"
       url = "/es/kontakt"
 [services]
-  title = "Horario Semanal"
-  text = "Consulta el horario litúrgico semanal [aquí](/es/weekly)."
+  title = "Calendario"
+  text = "Consulta el horario de festividades anuales por parroquias en el [Calendario](/es/kalendar/)."
 [feature_icons]
   enable = true
   [[feature_icons.tile]]

@@ -10,8 +10,8 @@
       url = "/en/kontakt"
 
 [services]
-  title = "Weekly Schedule"
-  text = "View the weekly liturgy schedule [here](/en/weekly)."
+  title = "Calendar"
+  text = "View the annual feasts schedule by parishes in the [Calendar](/en/kalendar/)."
 
 [feature_icons]
   enable = true

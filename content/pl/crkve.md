@@ -10,7 +10,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół parafialny św. Szczepana Protomęczennika – Grohote</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/grohote/grohote_solta_sv_stjepan.jpg" alt="Kościół parafialny św. Szczepana" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/grohote_solta_sv_stjepan.jpg" alt="Kościół parafialny św. Szczepana" style="max-width:100%;margin:1em 0;">
 
 <p>Budowę kościoła parafialnego św. Szczepana rozpoczęto w 1913 roku na miejscu starego, rozebranego kościoła. Pierwsza wojna światowa spowolniła budowę; regularne nabożeństwa rozpoczęły się z pewnością w 1927 roku, choć kościół nie był jeszcze w pełni ukończony. W 1938 roku zainstalowano główny ołtarz, dzieło rzeźbiarza Ante Franka ze Splitu.</p>
 
@@ -42,7 +42,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół św. Teresy z Ávila – Rogač</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/grohote/grohote_solta_rogac_sv_terezija_avilska.jpg" alt="Kościół św. Teresy z Ávila" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/grohote_solta_rogac_sv_terezija_avilska.jpg" alt="Kościół św. Teresy z Ávila" style="max-width:100%;margin:1em 0;">
 
 <p>Kościół św. Teresy z Ávila w Rogaču został zbudowany w XVII wieku. Na ołtarzu znajduje się obraz przedstawiający św. Teresę i fundatora Nikolę Gvozdenovicia (Ferro), który zmarł w 1672 roku; obraz namalowano w 1749 roku. Kościół ma 17 m długości i 8 m szerokości.</p>
 
@@ -55,7 +55,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół parafialny św. Jana Chrzciciela – Gornje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_solta_sv_ivan_krstitelj.jpg" alt="Kościół parafialny św. Jana Chrzciciela" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_solta_sv_ivan_krstitelj.jpg" alt="Kościół parafialny św. Jana Chrzciciela" style="max-width:100%;margin:1em 0;">
 
 <p>Kościół parafialny św. Jana Chrzciciela stoi w centrum wsi. Zbudowany w 1859 roku na miejscu starszego kościoła, sfinansowany przez rycerza Marina Bavčevicia. Kościół ma formę bazylikową z trzema nawami. Fasadę zdobią troje drzwi, dwa okna łukowe nad drzwiami naw bocznych oraz wielka ośmioramienna rozeta w podwyższonej części nawy środkowej. Na szczycie fasady kamienny posąg św. Jana Chrzciciela. Kościół zbudowany jest z ciosów kamiennych; po jednej stronie prezbiterium zakrystia, po drugiej dzwonnica.</p>
 
@@ -70,7 +70,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół Matki Bożej wśród Sosen – Stomorija</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_solta_sv_marija_u_borima.jpg" alt="Kościół Matki Bożej wśród Sosen" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_solta_sv_marija_u_borima.jpg" alt="Kościół Matki Bożej wśród Sosen" style="max-width:100%;margin:1em 0;">
 
 <p>Kościół uzyskał obecny wygląd w 1776 roku, zbudowany na miejscu starszego kościoła benedyktyńskiego z XIII wieku, który z kolei miał stanąć na jeszcze starszym kościele przedromańskim. Z budowli benedyktyńskiej zachowała się absyda romańska; prezbiterium ma charakter gotycki, a najnowsza część — nawa — jest barokowa.</p>
 
@@ -83,7 +83,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół św. Mikołaja – Stomorska</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_stomorska_solta_sv_nikola.jpg" alt="Kościół św. Mikołaja w Stomorskiej" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_stomorska_solta_sv_nikola.jpg" alt="Kościół św. Mikołaja w Stomorskiej" style="max-width:100%;margin:1em 0;">
 
 <p>Kościół św. Mikołaja znajduje się w Stomorskiej, porcie Gornje Sela. Stomorska powstała w XVII wieku; pierwsze dwie rodziny to Bučić-Vidan, stoczniowcy z Hvaru, i rodzina Novaković z Tugare. Obecny kościół zbudowano w 1870 roku na miejscu starszej kaplicy. Nad fasadą dzwonnica siodłowa na trzy dzwony. Kościół ma jeden ołtarz poświęcony św. Mikołajowi Biskupowi; czczona jest też św. Teresa z Ávila. Kościół odnowiono za kadencji ks. Ante Škobalja.</p>
 
@@ -94,7 +94,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kaplica Matki Bożej Zdrowia – Gornje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_solta_gospa_od_zdravlja.jpg" alt="Kaplica Matki Bożej Zdrowia" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_solta_gospa_od_zdravlja.jpg" alt="Kaplica Matki Bożej Zdrowia" style="max-width:100%;margin:1em 0;">
 
 <p>Kaplica Matki Bożej Zdrowia stoi poza wsią w miejscowości zwanej Vinogradišća. Została wzniesiona jako kaplica wotywna przez rodzinę Bavčević w 1903 roku. W 2003 roku synowie śp. Vicka Bavčevicia — Zlatan, Mladen i Dražen — odnowili ją z okazji stulecia budowy. Kaplicę pobłogosławił wikariusz pastoralny archidiecezji Mons. Drago Šimundža 13 lipca 2003 roku. Wewnątrz obraz przedstawiający Matkę Bożą z Dzieciątkiem, po jej prawej stronie św. Piotr Apostoł, po lewej biskup. Lud nazywa ją też Matką Bożą Polną i Matką Bożą Piotrową.</p>
 
@@ -105,7 +105,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kaplica Matki Bożej Różańcowej – Gornje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_solta_gospa_od_ruzarija.jpg" alt="Kaplica Matki Bożej Różańcowej" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_solta_gospa_od_ruzarija.jpg" alt="Kaplica Matki Bożej Różańcowej" style="max-width:100%;margin:1em 0;">
 
 <p>Kaplica Matki Bożej Różańcowej stoi poza wsią w miejscowości zwanej Križice. Zbudowana w 1880 roku, jak wyryto na kamiennym krzyżu na szczycie fasady. Kryta kamiennymi płytami; wewnątrz posąg Matki Bożej.</p>
 
@@ -116,7 +116,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół parafialny Oczyszczenia Najświętszej Maryi Panny – Srednje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/srednje_selo/srednje_selo_solta_gospa_od_ociscenja.jpg" alt="Kościół parafialny Oczyszczenia NMP" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/srednje_selo_solta_gospa_od_ociscenja.jpg" alt="Kościół parafialny Oczyszczenia NMP" style="max-width:100%;margin:1em 0;">
 
 <p>Kościół parafialny Oczyszczenia Najświętszej Maryi Panny zbudowany został z ciosów kamiennych w 1882 roku za kadencji proboszcza ks. Nikoli Šimicia. Kościół ma 21 m długości i 7,50 m szerokości. Fasada ma łukowe portale z profilowanymi ościeżami, dużą okrągłą rozetę w centrum, zegar publiczny powyżej i na szczycie dzwonnicę siodłową na trzy dzwony. Wnętrze ma trzy ołtarze marmurowe, dzieło kamieniarza Pavla Bilinicia ze Splitu. Ołtarz główny ze złożenia Jezusa w Świątyni A. Zuccara. Ołtarz boczny z obrazem Matki Bożej ze starego kościoła; drugi z marmurowym Krucyfiksem poświęcony Świętemu Krzyżowi.</p>
 
@@ -131,7 +131,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół parafialny św. Marcina Biskupa – Donje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/donje_selo/donje_selo_solta_sv_martin.jpg" alt="Kościół parafialny św. Marcina Biskupa" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/donje_selo_solta_sv_martin.jpg" alt="Kościół parafialny św. Marcina Biskupa" style="max-width:100%;margin:1em 0;">
 
 <p>Najstarsza część kościoła to ta za głównym ołtarzem, gdzie mieści się dziś zakrystia — była to pierwotna kaplica z XIV wieku, która już w 1579 roku miała dwa ołtarze: główny św. Marcina i boczny św. Katarzyny. W niszy ściennej obok głównego ołtarza renesansowe tabernakulum nieznanego miejscowego mistrza. Jako główny ołtarz użyto wczesnochrześcijańskiego sarkofagu z VI wieku.</p>
 
@@ -144,7 +144,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół św. Heleny – Donje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/donje_selo/donje_selo_solta_sv_jelena.jpg" alt="Kościół św. Heleny" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/donje_selo_solta_sv_jelena.jpg" alt="Kościół św. Heleny" style="max-width:100%;margin:1em 0;">
 
 <p>Kościół św. Heleny w obecnej formie zbudowany został pod koniec XVII wieku, jak potwierdzają dokumenty z czasów arcybiskupa Cosmiego. Jest to jednonawowa kamienna budowla z dzwonnicą siodłową na jeden dzwon i okrągłym kamiennym oknem na fasadzie. W jej murach wbudowane są antyczne fragmenty kamienne. Również tutaj ołtarzem jest wczesnochrześcijański sarkofag z wyrytym krzyżem w kole. Kropielnica przy wejściu została wyrzeźbiona w 1746 roku, jak wyryto na samej kropielnicy.</p>
 
@@ -155,9 +155,9 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 ---
 
 <details>
-<summary><strong>Kaplica Matki Bożej z Lourdes – Donje Selo</strong></summary>
+<summary><strong>Kaplica Matki Bożej z Lourdes – Srednje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/grohote/grohote_solta_gospa_lurdska.jpg" alt="Kaplica Matki Bożej z Lourdes" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/grohote_solta_gospa_lurdska.jpg" alt="Kaplica Matki Bożej z Lourdes" style="max-width:100%;margin:1em 0;">
 
 <p>Kaplica Matki Bożej z Lourdes zbudowana została z ciosów kamiennych w 1910 roku. Wejście ma półokrągły nadproże, okna są również łukowe. Na fasadzie okrągłe kamienne okno; na szczycie dzwonnica siodłowa na jeden dzwon, dodana w 1979 roku. Kryta płaską dachówką. Wewnątrz posąg Matki Bożej z Lourdes i stacje Drogi Krzyżowej.</p>
 
@@ -168,7 +168,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kościół parafialny św. Mikołaja – Maslinica</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/maslinica/maslinica_solta_sv_nikola.jpg" alt="Kościół parafialny św. Mikołaja w Maslinicy" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/maslinica_solta_sv_nikola.jpg" alt="Kościół parafialny św. Mikołaja w Maslinicy" style="max-width:100%;margin:1em 0;">
 
 <p>Kościół parafialny św. Mikołaja stoi na wzgórzu po południowej stronie zatoki. Obecny kościół zbudowany w 1880 roku na miejscu starszego z 1706 roku, o czym świadczy tablica z łacińską inskrypcją nad wejściem. Na fasadzie okrągłe okno i dzwonnica siodłowa na dwa dzwony; nawa ma dwa okna łukowe po każdej stronie.</p>
 
@@ -192,7 +192,7 @@ Parafie Šolty strzegą bogatego dziedzictwa sakralnego – od wczesnochrześcij
 <details>
 <summary><strong>Kaplica Matki Bożej Ostrobramskiej – Nečujam</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/grohote/grohote_solta_necujam_gospa_ostrovska.jpg" alt="Kaplica Matki Bożej Ostrobramskiej" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/grohote_solta_necujam_gospa_ostrovska.jpg" alt="Kaplica Matki Bożej Ostrobramskiej" style="max-width:100%;margin:1em 0;">
 
 <p>Kaplica Matki Bożej Ostrobramskiej w Nečujmie została zbudowana w 1938 roku z pięknie obrobionych kamieni przez rodzinę Bartelmus z Polski. Ołtarz wykonany jest z dębu, a obraz Matki Bożej oprawiony w pozłacany mosiądz. Napis po polsku głosi: „Pod Twoją obronę uciekamy się — Ema i Józef Bartelmus." Kaplica mierzy 9 × 4 m, kryta jest płaską dachówką i ma na szczycie fasady dzwonnicę siodłową na jeden dzwon.</p>
 

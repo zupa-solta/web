@@ -12,8 +12,8 @@
 
 #Details for the box below the banner
 [services]
-  title = "Tjedni raspored"
-  text = "Raspored bogoslužja po župama pregledajte [ovdje](/weekly)."
+  title = "Kalendar"
+  text = "Raspored godišnjih svetkovina po župama dostupan je u [Kalendaru](/kalendar/)."
 
 [feature_icons]
   #These feature icons look best if there's an even number of them.

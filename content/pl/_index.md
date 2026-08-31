@@ -8,8 +8,8 @@
       text = "Kontakt"
       url = "/pl/kontakt"
 [services]
-  title = "Plan tygodniowy"
-  text = "Zobacz tygodniowy plan liturgiczny [tutaj](/pl/weekly)."
+  title = "Kalendarz"
+  text = "Plan rocznych świąt po parafiach znajdziesz w [Kalendarzu](/pl/kalendar/)."
 [feature_icons]
   enable = true
   [[feature_icons.tile]]

@@ -10,7 +10,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Pfarrkirche des hl. Stephanus Protomärtyrers – Grohote</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/grohote/grohote_solta_sv_stjepan.jpg" alt="Pfarrkirche des hl. Stephanus" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/grohote_solta_sv_stjepan.jpg" alt="Pfarrkirche des hl. Stephanus" style="max-width:100%;margin:1em 0;">
 
 <p>Der Bau der Pfarrkirche des hl. Stephanus begann 1913 an der Stelle der alten, abgerissenen Kirche. Der Erste Weltkrieg verlangsamte den Bau; der regelmäßige Gottesdienst begann spätestens 1927, obwohl die Kirche damals noch nicht vollständig fertiggestellt war. 1938 wurde der Hauptaltar, ein Werk des Bildhauers Ante Frank aus Split, aufgestellt.</p>
 
@@ -42,7 +42,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Kirche der hl. Teresa von Ávila – Rogač</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/grohote/grohote_solta_rogac_sv_terezija_avilska.jpg" alt="Kirche der hl. Teresa von Ávila" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/grohote_solta_rogac_sv_terezija_avilska.jpg" alt="Kirche der hl. Teresa von Ávila" style="max-width:100%;margin:1em 0;">
 
 <p>Die Kirche der hl. Teresa von Ávila in Rogač wurde im 17. Jahrhundert erbaut. Am Altar befindet sich ein Gemälde mit dem Bildnis der hl. Teresa und des Stifters Nikola Gvozdenović (Ferro), der 1672 starb; das Gemälde wurde 1749 angefertigt. Die Kirche ist 17 m lang und 8 m breit.</p>
 
@@ -55,7 +55,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Pfarrkirche des hl. Johannes des Täufers – Gornje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_solta_sv_ivan_krstitelj.jpg" alt="Pfarrkirche des hl. Johannes des Täufers" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_solta_sv_ivan_krstitelj.jpg" alt="Pfarrkirche des hl. Johannes des Täufers" style="max-width:100%;margin:1em 0;">
 
 <p>Die Pfarrkirche des hl. Johannes des Täufers steht im Ortskern. Sie wurde 1859 an der Stelle einer älteren Kirche auf Kosten des Ritters Marin Bavčević erbaut. Die Kirche ist basilikaler Form mit drei Schiffen. Die Fassade hat drei Portale, zwei Rundbogenfenster über den Seitenschiff-Portalen sowie eine große achtspitzige Rosette über dem erhöhten Mittelteil. Den Abschluss der Fassade bildet eine Steinstatue des hl. Johannes des Täufers. Auf einer Seite des Chores befindet sich die Sakristei, auf der anderen der Glockenturm.</p>
 
@@ -70,7 +70,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Kirche der hl. Maria in den Pinien – Stomorija</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_solta_sv_marija_u_borima.jpg" alt="Kirche der hl. Maria in den Pinien" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_solta_sv_marija_u_borima.jpg" alt="Kirche der hl. Maria in den Pinien" style="max-width:100%;margin:1em 0;">
 
 <p>Die Kirche erhielt ihr heutiges Aussehen 1776. Sie wurde an der Stelle einer älteren Benediktinerkirche aus dem 13. Jahrhundert errichtet, die ihrerseits auf einer noch älteren vorromanischen Kirche stand. Von der Benediktinerkirche ist die romanische Apsis erhalten; der Chor ist gotisch, das neueste Teil – das Kirchenschiff – ist barock.</p>
 
@@ -83,7 +83,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Kirche des hl. Nikolaus – Stomorska</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_stomorska_solta_sv_nikola.jpg" alt="Kirche des hl. Nikolaus in Stomorska" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_stomorska_solta_sv_nikola.jpg" alt="Kirche des hl. Nikolaus in Stomorska" style="max-width:100%;margin:1em 0;">
 
 <p>Die Kirche des hl. Nikolaus befindet sich in Stomorska, dem Hafen von Gornje Selo. Stomorska entstand im 17. Jahrhundert – die ersten beiden Familien waren die Bučić-Vidan, Schiffsbauer aus Hvar, und die Familie Novaković aus Tugare. Die heutige Kirche wurde 1870 an der Stelle einer älteren Kapelle erbaut. Über der Fassade ein Giebelreiter für drei Glocken. Die Kirche hat nur einen Altar, dem hl. Nikolaus Bischof geweiht; auch die hl. Teresa von Ávila wird hier verehrt. Die Kirche wurde unter Pfarrer Don Ante Škobalj renoviert.</p>
 
@@ -94,7 +94,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Kapelle Unserer Lieben Frau der Gesundheit – Gornje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_solta_gospa_od_zdravlja.jpg" alt="Kapelle Unserer Lieben Frau der Gesundheit" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_solta_gospa_od_zdravlja.jpg" alt="Kapelle Unserer Lieben Frau der Gesundheit" style="max-width:100%;margin:1em 0;">
 
 <p>Die Kapelle Unserer Lieben Frau der Gesundheit liegt außerhalb des Dorfes im Gebiet namens Vinogradišća. Sie wurde 1903 als Votivkapelle der Familie Bavčević erbaut. 2003 restaurierten sie die Söhne des verstorbenen Vicko Bavčević – Zlatan, Mladen und Dražen – anlässlich des hundertjährigen Jubiläums. Die Kapelle wurde am 13. Juli 2003 vom Pastoralvikar der Erzdiözese Mons. Drago Šimundža gesegnet. Im Inneren ein Gemälde, das Maria mit dem Kind zeigt, rechts der hl. Petrus Apostel, links ein Bischof. Das Volk nennt sie auch Unsere Liebe Frau vom Feld und Petrus-Maria.</p>
 
@@ -105,7 +105,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Kapelle Unserer Lieben Frau vom Rosenkranz – Gornje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/gornje_selo/gornje_selo_solta_gospa_od_ruzarija.jpg" alt="Kapelle Unserer Lieben Frau vom Rosenkranz" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/gornje_selo_solta_gospa_od_ruzarija.jpg" alt="Kapelle Unserer Lieben Frau vom Rosenkranz" style="max-width:100%;margin:1em 0;">
 
 <p>Die Kapelle Unserer Lieben Frau vom Rosenkranz steht außerhalb des Dorfes im Gebiet namens Križice. Sie wurde 1880 erbaut, wie auf dem steinernen Kreuz am Fassadengiebel eingemeißelt. Gedeckt mit Steinplatten; im Inneren eine Marienstatue.</p>
 
@@ -116,7 +116,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Pfarrkirche Mariä Lichtmess – Srednje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/srednje_selo/srednje_selo_solta_gospa_od_ociscenja.jpg" alt="Pfarrkirche Mariä Lichtmess" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/srednje_selo_solta_gospa_od_ociscenja.jpg" alt="Pfarrkirche Mariä Lichtmess" style="max-width:100%;margin:1em 0;">
 
 <p>Die Pfarrkirche Mariä Lichtmess wurde 1882 aus Quaderstein erbaut, unter Pfarrer Don Nikola Šimić. Die Kirche ist 21 m lang und 7,50 m breit. Die Fassade hat Rundbogenportale mit profilierten Gewänden, in der Mitte ein großes Rundfenster und darüber eine öffentliche Uhr; am Giebel ein Giebelreiter für drei Glocken. Im Inneren drei Marmoraltäre, Werk des Steinmetzen Pavao Bilinić aus Split. Am Hochaltar ein Gemälde der Darstellung Jesu im Tempel von A. Zuccaro. Ein Seitenaltar trägt ein Marienbild aus der alten Kirche, der andere ein marmernes Kruzifix.</p>
 
@@ -131,7 +131,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Pfarrkirche des hl. Martin Bischof – Donje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/donje_selo/donje_selo_solta_sv_martin.jpg" alt="Pfarrkirche des hl. Martin Bischof" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/donje_selo_solta_sv_martin.jpg" alt="Pfarrkirche des hl. Martin Bischof" style="max-width:100%;margin:1em 0;">
 
 <p>Der älteste Teil der Kirche befindet sich hinter dem Hauptaltar, wo heute die Sakristei untergebracht ist – dies war die ursprüngliche Kapelle aus dem 14. Jahrhundert, die 1579 bereits zwei Altäre hatte: den Hauptaltar des hl. Martin und einen Seitenaltar der hl. Katharina. In einer Wandnische neben dem Hauptaltar befindet sich ein Renaissancetabernakel eines unbekannten einheimischen Meisters. Als Hauptaltar wurde ein frühchristlicher Sarkophag aus dem 6. Jahrhundert verwendet.</p>
 
@@ -144,7 +144,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Kirche der hl. Helena – Donje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/donje_selo/donje_selo_solta_sv_jelena.jpg" alt="Kirche der hl. Helena" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/donje_selo_solta_sv_jelena.jpg" alt="Kirche der hl. Helena" style="max-width:100%;margin:1em 0;">
 
 <p>Die Kirche der hl. Helena in ihrer heutigen Form wurde Ende des 17. Jahrhunderts erbaut, wie Dokumente aus der Zeit des Erzbischofs Cosmi belegen. Es ist ein einschiffiger Steinbau mit Dachreiter für eine Glocke und rundem Steinfenster an der Fassade. In den Mauern sind antike Steinfragmente eingearbeitet. Auch hier ist der Altar ein frühchristlicher Sarkophag mit eingehautem Kreuz im Kreis. Das Weihwasserbecken am Eingang wurde 1746 gemeißelt, wie die Inschrift am Becken selbst belegt.</p>
 
@@ -155,9 +155,9 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 ---
 
 <details>
-<summary><strong>Kapelle Unserer Lieben Frau von Lourdes – Donje Selo</strong></summary>
+<summary><strong>Kapelle Unserer Lieben Frau von Lourdes – Srednje Selo</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/grohote/grohote_solta_gospa_lurdska.jpg" alt="Kapelle Unserer Lieben Frau von Lourdes" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/grohote_solta_gospa_lurdska.jpg" alt="Kapelle Unserer Lieben Frau von Lourdes" style="max-width:100%;margin:1em 0;">
 
 <p>Die Kapelle Unserer Lieben Frau von Lourdes wurde 1910 aus Quaderstein erbaut. Das Portal hat einen Rundbogensturz, die Fenster sind ebenfalls rundbogig. Die Fassade zeigt ein rundes Steinfenster; am Fassadengiebel ein 1979 aufgesetzter Giebelreiter für eine Glocke. Gedeckt mit flachen Dachziegeln. Im Inneren eine Statue Unserer Lieben Frau von Lourdes und die Stationen des Kreuzwegs.</p>
 
@@ -168,7 +168,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Pfarrkirche des hl. Nikolaus – Maslinica</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/maslinica/maslinica_solta_sv_nikola.jpg" alt="Pfarrkirche des hl. Nikolaus in Maslinica" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/maslinica_solta_sv_nikola.jpg" alt="Pfarrkirche des hl. Nikolaus in Maslinica" style="max-width:100%;margin:1em 0;">
 
 <p>Die Pfarrkirche des hl. Nikolaus steht auf einem Hügel südlich der Bucht. Die heutige Kirche wurde 1880 an der Stelle einer älteren Kirche von 1706 errichtet, wie eine Tafel mit lateinischer Inschrift über dem Eingangsportal belegt. Die Fassade hat ein Rundfenster und einen Giebelreiter für zwei Glocken; das Kirchenschiff hat beidseitig je zwei Rundbogenfenster.</p>
 
@@ -192,7 +192,7 @@ Die Šolta-Pfarreien bewahren ein reiches sakrales Erbe – von frühchristliche
 <details>
 <summary><strong>Kapelle Unserer Lieben Frau von Ostrobrama – Nečujam</strong></summary>
 
-<img src="https://smn.hr/images/galerije/zupe/grohote/grohote_solta_necujam_gospa_ostrovska.jpg" alt="Kapelle Unserer Lieben Frau von Ostrobrama" style="max-width:100%;margin:1em 0;">
+<img src="/img/churches/grohote_solta_necujam_gospa_ostrovska.jpg" alt="Kapelle Unserer Lieben Frau von Ostrobrama" style="max-width:100%;margin:1em 0;">
 
 <p>Die Kapelle Unserer Lieben Frau von Ostrobrama in Nečujam wurde 1938 aus sorgfältig behauenen Steinen erbaut, gestiftet von der polnischen Familie Bartelmus. Der Altar ist aus Eichenholz; das Marienbild ist in vergoldetem Messing gefasst. Die polnische Inschrift lautet: „Unter deinen Schutz fliehen wir – Ema und Jozef Bartelmus." Die Kapelle misst 9 × 4 m, ist mit flachen Ziegeln gedeckt und hat an der Fassade einen Giebelreiter für eine Glocke.</p>
 
