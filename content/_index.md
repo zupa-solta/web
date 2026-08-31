@@ -79,5 +79,5 @@
 [CTA]
   enable = true
   heading = "Pošaljite poruku!"
-  message = "Ko skita, ne pita."
+  message = "Ko pita, ne skita."
 +++
