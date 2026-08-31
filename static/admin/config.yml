@@ -8,65 +8,65 @@ public_folder: "/img"
 
 collections:
 
-  - name: "weekly"
-    label: "Tjedni raspored"
-    folder: "content/weekly"
-    create: true
-    slug: "{{slug}}"
-    summary: "{{title}} ({{week_range}})"
-    sortable_fields: [date, title]
-    editor:
-      preview: false
-    fields:
+  # - name: "weekly"
+  #   label: "Tjedni raspored"
+  #   folder: "content/weekly"
+  #   create: true
+  #   slug: "{{slug}}"
+  #   summary: "{{title}} ({{week_range}})"
+  #   sortable_fields: [date, title]
+  #   editor:
+  #     preview: false
+  #   fields:
+  #
+  #     - label: "Naslov"
+  #       name: "title"
+  #       widget: "string"
+  #       hint: "npr. Prva nedjelja došašća"
+  #
+  #     - label: "Datum"
+  #       name: "date"
+  #       widget: "datetime"
+  #       format: "YYYY-MM-DD"
+  #
+  #     - label: "Raspon tjedna"
+  #       name: "week_range"
+  #       widget: "string"
+  #       hint: "npr. 01.12.2025. – 07.12.2025."
+  #
+  #     - label: "Sadržaj"
+  #       name: "body"
+  #       widget: "markdown"
+  #       modes: [rich_text]
+  #       hint: "Tablica rasporeda, obavijesti i komentar čitanja."
 
-      - label: "Naslov"
-        name: "title"
-        widget: "string"
-        hint: "npr. Prva nedjelja došašća"
-
-      - label: "Datum"
-        name: "date"
-        widget: "datetime"
-        format: "YYYY-MM-DD"
-
-      - label: "Raspon tjedna"
-        name: "week_range"
-        widget: "string"
-        hint: "npr. 01.12.2025. – 07.12.2025."
-
-      - label: "Sadržaj"
-        name: "body"
-        widget: "markdown"
-        modes: [rich_text]
-        hint: "Tablica rasporeda, obavijesti i komentar čitanja."
-
-  - name: "posts"
-    label: "Objave"
-    folder: "content/posts"
-    create: true
-    sortable_fields: [date, title]
-    editor:
-      preview: false
-    fields:
-      - label: "Naslov"
-        name: "title"
-        widget: "string"
-
-      - label: "Datum objave"
-        name: "date"
-        widget: "datetime"
-        format: "YYYY-MM-DD"
-
-      - label: "Slike"
-        name: "images"
-        widget: "list"
-        required: false
-        field:
-          label: "Slika"
-          name: "image"
-          widget: "image"
-
-      - label: "Sadržaj"
-        name: "body"
-        widget: "markdown"
-        modes: [rich_text]
+  # - name: "posts"
+  #   label: "Objave"
+  #   folder: "content/posts"
+  #   create: true
+  #   sortable_fields: [date, title]
+  #   editor:
+  #     preview: false
+  #   fields:
+  #     - label: "Naslov"
+  #       name: "title"
+  #       widget: "string"
+  #
+  #     - label: "Datum objave"
+  #       name: "date"
+  #       widget: "datetime"
+  #       format: "YYYY-MM-DD"
+  #
+  #     - label: "Slike"
+  #       name: "images"
+  #       widget: "list"
+  #       required: false
+  #       field:
+  #         label: "Slika"
+  #         name: "image"
+  #         widget: "image"
+  #
+  #     - label: "Sadržaj"
+  #       name: "body"
+  #       widget: "markdown"
+  #       modes: [rich_text]

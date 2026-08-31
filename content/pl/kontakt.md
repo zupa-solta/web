@@ -7,10 +7,10 @@ description = "Kontakt i godziny otwarcia biura parafialnego na wyspie Šolta �
 
 | Parafia | Adres | Telefon | Proboszcz |
 |---------|-------|---------|-----------|
-| Parafia św. Stefana Pierwszego Męczennika – Grohote | Igrališće 22, 21430 Grohote | (021) 654-132 | Ks. Vinko Beus |
+| Parafia św. Stefana Pierwszego Męczennika – Grohote | Igrališće 22, 21430 Grohote | 098 291 683 | Ks. Mile Čalo |
 | Parafia św. Jana Chrzciciela – Gornje Selo | Put Grohota 4, 21432 Stomorska | (021) 658-126 | Ks. Andrej Marić |
-| Parafia Ofiarowania NMP – Srednje Selo | Igrališće 22, 21430 Grohote | (021) 654-132 | Ks. Vinko Beus |
-| Parafia św. Marcina Biskupa – Donje Selo | Igrališće 22, 21430 Grohote | (021) 654-132 | Ks. Vinko Beus |
+| Parafia Ofiarowania NMP – Srednje Selo | Igrališće 22, 21430 Grohote | 098 291 683 | Ks. Mile Čalo |
+| Parafia św. Marcina Biskupa – Donje Selo | Igrališće 22, 21430 Grohote | 098 291 683 | Ks. Mile Čalo |
 | Parafia św. Mikołaja – Maslinica | Put Grohota 4, 21432 Stomorska | (021) 658-126 | Ks. Andrej Marić |
 
 ------------------------

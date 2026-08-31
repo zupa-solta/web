@@ -57,10 +57,10 @@ defaultContentLanguage = "hr"
     name = "Crkve"
     url = "/crkve/"
     weight = 3
-  [[languages.hr.menu.main]]
-    name = "Tjedni raspored"
-    url = "/weekly"
-    weight = 4
+  # [[languages.hr.menu.main]]
+  #   name = "Tjedni raspored"
+  #   url = "/weekly"
+  #   weight = 4
   [[languages.hr.menu.main]]
     name = "Kalendar"
     url = "/kalendar/"
@@ -79,10 +79,10 @@ defaultContentLanguage = "hr"
     name = "Churches"
     url = "/crkve/"
     weight = 3
-  [[languages.en.menu.main]]
-    name = "Weekly schedule"
-    url = "/weekly"
-    weight = 4
+  # [[languages.en.menu.main]]
+  #   name = "Weekly schedule"
+  #   url = "/weekly"
+  #   weight = 4
   [[languages.en.menu.main]]
     name = "Calendar"
     url = "/kalendar/"
@@ -102,10 +102,10 @@ defaultContentLanguage = "hr"
     name = "Kirchen"
     url = "/crkve/"
     weight = 3
-  [[languages.de.menu.main]]
-    name = "Wochenplan"
-    url = "/weekly"
-    weight = 4
+  # [[languages.de.menu.main]]
+  #   name = "Wochenplan"
+  #   url = "/weekly"
+  #   weight = 4
   [[languages.de.menu.main]]
     name = "Kalender"
     url = "/kalendar/"
@@ -124,10 +124,10 @@ defaultContentLanguage = "hr"
     name = "Iglesias"
     url = "/crkve/"
     weight = 3
-  [[languages.es.menu.main]]
-    name = "Horario semanal"
-    url = "/weekly"
-    weight = 4
+  # [[languages.es.menu.main]]
+  #   name = "Horario semanal"
+  #   url = "/weekly"
+  #   weight = 4
   [[languages.es.menu.main]]
     name = "Calendario"
     url = "/kalendar/"
@@ -146,10 +146,10 @@ defaultContentLanguage = "hr"
     name = "Chiese"
     url = "/crkve/"
     weight = 3
-  [[languages.it.menu.main]]
-    name = "Orario settimanale"
-    url = "/weekly"
-    weight = 4
+  # [[languages.it.menu.main]]
+  #   name = "Orario settimanale"
+  #   url = "/weekly"
+  #   weight = 4
   [[languages.it.menu.main]]
     name = "Calendario"
     url = "/kalendar/"
@@ -168,10 +168,10 @@ defaultContentLanguage = "hr"
     name = "Kościoły"
     url = "/crkve/"
     weight = 3
-  [[languages.pl.menu.main]]
-    name = "Plan tygodniowy"
-    url = "/weekly"
-    weight = 4
+  # [[languages.pl.menu.main]]
+  #   name = "Plan tygodniowy"
+  #   url = "/weekly"
+  #   weight = 4
   [[languages.pl.menu.main]]
     name = "Kalendarz"
     url = "/kalendar/"
