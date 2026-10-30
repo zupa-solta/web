@@ -13,8 +13,3 @@ description = "Contact and opening hours of the parish office on the island of �
 | Parish of St. Martin the Bishop – Donje Selo         | Igrališće 22, 21430 Grohote    | 098 291 683 | Fr. Mile Čalo   |
 | Parish of St. Nicholas – Maslinica                   | Put Grohota 4, 21432 Stomorska | (021) 658-126 | Fr. Andrej Marić |
 
-------------------------
-
-## Send a message
-
-{{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}

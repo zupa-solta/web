@@ -13,8 +13,3 @@ description = "Contatti e orari dell'ufficio parrocchiale sull'isola di Šolta �
 | Parrocchia di S. Martino Vescovo – Donje Selo | Igrališće 22, 21430 Grohote | 098 291 683 | Fr. Mile Čalo |
 | Parrocchia di S. Nicola – Maslinica | Put Grohota 4, 21432 Stomorska | (021) 658-126 | Fr. Andrej Marić |
 
-------------------------
-
-## Invia un messaggio
-
-{{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}

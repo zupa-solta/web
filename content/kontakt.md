@@ -13,8 +13,3 @@ description = "Kontakt i radno vrijeme župnog ureda na otoku Šolti – adrese 
 | Župa sv. Martina biskupa - Donje Selo        | Igrališće 22, 21430 Grohote     | 098 291 683 | don Mile Čalo    |
 | Župa sv. Nikole b. - Maslinica               | Put Grohota 4, 21432 Stomorska     | 091 180 9982 | don Andrej Marić    |
 
-------------------------
-
-## Pošaljite poruku
-
-{{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}

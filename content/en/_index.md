@@ -72,7 +72,7 @@
     button_text = "Church News"
 
 [CTA]
-  enable = true
+  enable = false
   heading = "Send us a message!"
   message = "We'd love to hear from you."
 +++

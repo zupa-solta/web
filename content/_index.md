@@ -77,7 +77,7 @@
     button_text = "Novosti iz Crkve"
 
 [CTA]
-  enable = true
+  enable = false
   heading = "Pošaljite poruku!"
   message = "Ko pita, ne skita."
 +++

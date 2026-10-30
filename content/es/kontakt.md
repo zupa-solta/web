@@ -13,8 +13,3 @@ description = "Contacto y horario de la oficina parroquial en la isla de Šolta 
 | Parroquia de San Martín Obispo – Donje Selo | Igrališće 22, 21430 Grohote | 098 291 683 | Fr. Mile Čalo |
 | Parroquia de San Nicolás – Maslinica | Put Grohota 4, 21432 Stomorska | (021) 658-126 | Fr. Andrej Marić |
 
-------------------------
-
-## Enviar un mensaje
-
-{{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}

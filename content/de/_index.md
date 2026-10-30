@@ -59,7 +59,7 @@
     url = "https://ika.hkm.hr/"
     button_text = "Kirchennachrichten"
 [CTA]
-  enable = true
+  enable = false
   heading = "Schreiben Sie uns!"
   message = "Wir freuen uns von Ihnen zu hören."
 +++

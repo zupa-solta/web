@@ -13,8 +13,3 @@ description = "Kontakt und Öffnungszeiten des Pfarramts auf der Insel Šolta �
 | Parish of St. Martin the Bishop – Donje Selo | Igrališće 22, 21430 Grohote | 098 291 683 | Fr. Mile Čalo |
 | Parish of St. Nicholas – Maslinica | Put Grohota 4, 21432 Stomorska | (021) 658-126 | Fr. Andrej Marić |
 
-------------------------
-
-## Nachricht senden
-
-{{< contact.inline >}}{{ partial "contact" . }}{{< /contact.inline >}}
